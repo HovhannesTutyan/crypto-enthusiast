@@ -1,2192 +1,5842 @@
 [
     {
-        "date": "2023-07-25",
-        "price_usd": 23.422633571179617,
-        "market_cap": 9455689036.354588,
-        "volume_24h": 517091585.3710577
-    },
-    {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-07-26",
         "price_usd": 23.267716629540782,
         "market_cap": 9395875459.492481,
         "volume_24h": 362056307.62913954
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-07-27",
         "price_usd": 25.1519878372353,
         "market_cap": 10171319431.282724,
         "volume_24h": 682755887.4427278
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-07-28",
         "price_usd": 25.093488053679394,
         "market_cap": 10151894149.311943,
         "volume_24h": 493788462.55482113
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-07-29",
         "price_usd": 24.825803970620775,
         "market_cap": 10051629238.612888,
         "volume_24h": 354454914.9621894
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-07-30",
         "price_usd": 25.16504796989767,
         "market_cap": 10178962394.375273,
         "volume_24h": 266002736.55053675
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-07-31",
         "price_usd": 24.266784359176683,
         "market_cap": 9816173591.432625,
         "volume_24h": 354202895.00340414
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-01",
         "price_usd": 23.75665877952372,
         "market_cap": 9604285334.638874,
         "volume_24h": 401006374.0008301
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-02",
         "price_usd": 23.92554655853081,
         "market_cap": 9663629338.746136,
         "volume_24h": 433930052.9370583
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-03",
         "price_usd": 23.134812664080517,
         "market_cap": 9376125922.103199,
         "volume_24h": 426945357.6898426
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-04",
         "price_usd": 22.654451935469393,
         "market_cap": 9178003135.366844,
         "volume_24h": 375514604.6347747
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-05",
         "price_usd": 22.809920321126338,
         "market_cap": 9237548520.05844,
         "volume_24h": 387384158.1790491
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-06",
         "price_usd": 22.62509186558245,
         "market_cap": 9155491618.929426,
         "volume_24h": 256370671.0600972
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-07",
         "price_usd": 23.16031151415157,
         "market_cap": 9384285772.437752,
         "volume_24h": 338171013.5108157
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-08",
         "price_usd": 23.05200017950495,
         "market_cap": 9344630841.913843,
         "volume_24h": 386012925.76220214
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-09",
         "price_usd": 24.203816824917432,
         "market_cap": 9819635413.27439,
         "volume_24h": 561549883.4110975
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-10",
         "price_usd": 24.384610250755937,
         "market_cap": 9894698836.091352,
         "volume_24h": 458039680.48740876
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-11",
         "price_usd": 24.61887321060917,
         "market_cap": 9982518848.598183,
         "volume_24h": 352124557.44548595
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-12",
         "price_usd": 24.57980986376842,
         "market_cap": 9969763672.692484,
         "volume_24h": 337807060.84393805
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-13",
         "price_usd": 24.891819066984105,
         "market_cap": 10095650763.649355,
         "volume_24h": 277306903.1224978
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-14",
         "price_usd": 24.223294007901522,
         "market_cap": 9839554742.689486,
         "volume_24h": 278182091.4448637
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-15",
         "price_usd": 25.14772487652887,
         "market_cap": 10211324982.836502,
         "volume_24h": 388025853.4511116
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-16",
         "price_usd": 23.875641318375827,
         "market_cap": 9697572470.820595,
         "volume_24h": 452521516.469082
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-17",
         "price_usd": 22.846367700285874,
         "market_cap": 9300306072.046394,
         "volume_24h": 495294920.8187228
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-18",
         "price_usd": 21.646961802699884,
         "market_cap": 8833375790.376423,
         "volume_24h": 656412528.1823697
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-19",
         "price_usd": 21.330196240480664,
         "market_cap": 8681695608.57574,
         "volume_24h": 412220153.69078887
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-20",
         "price_usd": 21.878330239316607,
         "market_cap": 8915137095.359207,
         "volume_24h": 254181454.34625465
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-21",
         "price_usd": 21.747537100837746,
         "market_cap": 8865949897.077328,
         "volume_24h": 199999876.15221682
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-22",
         "price_usd": 21.20210914644501,
         "market_cap": 8654520275.407608,
         "volume_24h": 350405754.29350466
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-23",
         "price_usd": 20.55389205635584,
         "market_cap": 8370856986.385249,
         "volume_24h": 424951194.90933454
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-24",
         "price_usd": 21.672558527450196,
         "market_cap": 8838275066.484407,
         "volume_24h": 427963737.73245025
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-25",
         "price_usd": 21.02615201908747,
         "market_cap": 8571674305.076569,
         "volume_24h": 333451385.7319252
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-26",
         "price_usd": 20.392834533596297,
         "market_cap": 8310249527.262404,
         "volume_24h": 282555497.36793965
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-27",
         "price_usd": 20.27381527104058,
         "market_cap": 8261560411.31751,
         "volume_24h": 152284092.6245007
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-28",
         "price_usd": 20.781187138711672,
         "market_cap": 8479951511.884242,
         "volume_24h": 188402423.45091224
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-29",
         "price_usd": 20.562540137575354,
         "market_cap": 8388087449.848007,
         "volume_24h": 220500272.41120887
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-30",
         "price_usd": 21.756889820182593,
         "market_cap": 8863938813.844702,
         "volume_24h": 532103194.01834327
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-08-31",
         "price_usd": 20.840938892992455,
         "market_cap": 8515043630.644387,
         "volume_24h": 325877638.4482804
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-01",
         "price_usd": 19.73118602186944,
         "market_cap": 8053897659.792566,
         "volume_24h": 400346096.9059848
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-02",
         "price_usd": 19.339387541129707,
         "market_cap": 7901833889.253324,
         "volume_24h": 315356701.07955533
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-03",
         "price_usd": 19.46854293968664,
         "market_cap": 7955183284.391823,
         "volume_24h": 211960136.35665137
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-04",
         "price_usd": 19.57639006334943,
         "market_cap": 8013423697.4014635,
         "volume_24h": 180893228.87571305
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-05",
         "price_usd": 19.491905828235154,
         "market_cap": 7962785355.880494,
         "volume_24h": 252214726.68620986
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-06",
         "price_usd": 20.270462383722805,
         "market_cap": 8282664538.733198,
         "volume_24h": 411485050.0616829
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-07",
         "price_usd": 19.625034431663497,
         "market_cap": 8025176936.509907,
         "volume_24h": 337212061.34614104
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-08",
         "price_usd": 19.887886504760793,
         "market_cap": 8138224259.182586,
         "volume_24h": 268560276.5563723
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-09",
         "price_usd": 19.59598499714458,
         "market_cap": 8024651915.709034,
         "volume_24h": 241627736.94050872
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-10",
         "price_usd": 19.440479779530477,
         "market_cap": 7988672928.157753,
         "volume_24h": 113878317.5432121
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-11",
         "price_usd": 18.241559982955604,
         "market_cap": 7496074227.315406,
         "volume_24h": 555163596.9224107
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-12",
         "price_usd": 17.705129864271623,
         "market_cap": 7268358215.03846,
         "volume_24h": 400434707.3776181
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-13",
         "price_usd": 17.94444618355289,
         "market_cap": 7368626584.271517,
         "volume_24h": 389593246.32070786
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-14",
         "price_usd": 18.403573351427394,
         "market_cap": 7551673475.282736,
         "volume_24h": 390062108.0243038
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-15",
         "price_usd": 18.829900592345915,
         "market_cap": 7743475445.815018,
         "volume_24h": 369004294.7870687
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-16",
         "price_usd": 19.17312182700796,
         "market_cap": 7883263120.700344,
         "volume_24h": 220573537.50007787
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-17",
         "price_usd": 19.126902793634855,
         "market_cap": 7864717942.885944,
         "volume_24h": 148168222.59819412
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-18",
         "price_usd": 18.803112818374224,
         "market_cap": 7720289269.964434,
         "volume_24h": 124252102.72247562
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-19",
         "price_usd": 19.64014703071697,
         "market_cap": 8081231238.22347,
         "volume_24h": 352014217.12332475
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-20",
         "price_usd": 20.04209873431388,
         "market_cap": 8242770208.209753,
         "volume_24h": 290189000.34149134
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-21",
         "price_usd": 20.287247895504184,
         "market_cap": 8357683264.676293,
         "volume_24h": 262866309.89747557
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-22",
         "price_usd": 19.470117691401224,
         "market_cap": 8032276838.132356,
         "volume_24h": 292386180.04326856
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-23",
         "price_usd": 19.437726515592722,
         "market_cap": 8027260379.11194,
         "volume_24h": 202514150.67340213
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-24",
         "price_usd": 19.47116415036064,
         "market_cap": 8029339259.552218,
         "volume_24h": 118397178.4958432
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-25",
         "price_usd": 19.351752066049695,
         "market_cap": 7984839330.184492,
         "volume_24h": 127718771.41655114
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-26",
         "price_usd": 19.394881050820743,
         "market_cap": 8001387575.2221575,
         "volume_24h": 185810718.58044255
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-27",
         "price_usd": 19.01708701773738,
         "market_cap": 7853875935.402948,
         "volume_24h": 206867879.9211672
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-28",
         "price_usd": 19.12786529422154,
         "market_cap": 7889113032.339973,
         "volume_24h": 240306166.06628406
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-29",
         "price_usd": 19.94620329719107,
         "market_cap": 8237778276.828282,
         "volume_24h": 292672977.9767457
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-09-30",
         "price_usd": 20.294161364007895,
         "market_cap": 8380719360.271232,
         "volume_24h": 261043004.35269776
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-01",
         "price_usd": 21.387052432956956,
         "market_cap": 8834603606.720219,
         "volume_24h": 378177852.7042039
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-02",
         "price_usd": 23.88149631052896,
         "market_cap": 9910925871.881264,
         "volume_24h": 718136084.2409812
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-03",
         "price_usd": 23.40994675528492,
         "market_cap": 9664238003.259367,
         "volume_24h": 761548241.0737458
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-04",
         "price_usd": 23.546636568867523,
         "market_cap": 9737914093.265001,
         "volume_24h": 741310161.2129006
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-05",
         "price_usd": 23.14279023721254,
         "market_cap": 9569979650.531218,
         "volume_24h": 493664590.5015571
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-06",
         "price_usd": 22.719916973389385,
         "market_cap": 9392479523.673967,
         "volume_24h": 397587747.142302
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-07",
         "price_usd": 23.43163795467068,
         "market_cap": 9685255629.751097,
         "volume_24h": 496792045.69639635
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-08",
         "price_usd": 23.293820293560618,
         "market_cap": 9647364228.421127,
         "volume_24h": 318412075.87768364
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-09",
         "price_usd": 23.24916669447795,
         "market_cap": 9627275562.372828,
         "volume_24h": 235111764.89452532
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-10",
         "price_usd": 22.11144636191878,
         "market_cap": 9168609907.058208,
         "volume_24h": 400926255.71746325
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-11",
         "price_usd": 22.10708097425926,
         "market_cap": 9168430059.589134,
         "volume_24h": 273654373.8543851
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-12",
         "price_usd": 21.96097231022005,
         "market_cap": 9129830090.478773,
         "volume_24h": 316248781.1667089
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-13",
         "price_usd": 21.26544011226295,
         "market_cap": 8859183055.63427,
         "volume_24h": 314816782.1866703
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-14",
         "price_usd": 21.826473760164795,
         "market_cap": 9083240237.427359,
         "volume_24h": 310146737.3899081
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-15",
         "price_usd": 22.00456614346382,
         "market_cap": 9161744653.181892,
         "volume_24h": 202215869.99082258
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-16",
         "price_usd": 21.916231700248684,
         "market_cap": 9125622303.79429,
         "volume_24h": 204660747.35315484
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-17",
         "price_usd": 23.981381940492962,
         "market_cap": 10055584865.075695,
         "volume_24h": 806897436.5548655
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-18",
         "price_usd": 23.971056117737877,
         "market_cap": 9983521264.639666,
         "volume_24h": 581667581.4015583
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-19",
         "price_usd": 23.434057784969053,
         "market_cap": 9758507265.818256,
         "volume_24h": 429121366.3134514
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-20",
         "price_usd": 24.942676655920565,
         "market_cap": 10349453104.808008,
         "volume_24h": 770082609.2504172
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-21",
         "price_usd": 27.034557905425466,
         "market_cap": 11290615048.676315,
         "volume_24h": 1036997952.8813083
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-22",
         "price_usd": 29.355573342373983,
         "market_cap": 12239407592.026327,
         "volume_24h": 1290662076.6585624
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-23",
         "price_usd": 29.02138704288216,
         "market_cap": 12075671557.596724,
         "volume_24h": 768780749.3080908
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-24",
         "price_usd": 31.736583271682292,
         "market_cap": 13367364108.913492,
         "volume_24h": 1754698377.2423136
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-25",
         "price_usd": 30.133994925651603,
         "market_cap": 12604514716.68563,
         "volume_24h": 1555849834.6326745
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-26",
         "price_usd": 32.405323087903845,
         "market_cap": 13543276725.776272,
         "volume_24h": 1583606743.0827258
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-27",
         "price_usd": 32.71431713179988,
         "market_cap": 13696100439.031744,
         "volume_24h": 1151811976.6829984
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-28",
         "price_usd": 31.765434430978374,
         "market_cap": 13322929646.105707,
         "volume_24h": 991685345.9089792
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-29",
         "price_usd": 31.646807666480882,
         "market_cap": 13270979228.927153,
         "volume_24h": 452735014.9432719
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-30",
         "price_usd": 32.81601052032671,
         "market_cap": 13747282667.78367,
         "volume_24h": 597456716.0652834
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-10-31",
         "price_usd": 34.95699301421437,
         "market_cap": 14656591733.223766,
         "volume_24h": 1159874552.389189
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-01",
         "price_usd": 38.48164730744764,
         "market_cap": 16146331428.99949,
         "volume_24h": 1785301823.9198341
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-02",
         "price_usd": 41.41420827516142,
         "market_cap": 17362282922.666862,
         "volume_24h": 3959223018.903169
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-03",
         "price_usd": 40.146033594069166,
         "market_cap": 16915834782.767227,
         "volume_24h": 2642794307.6513314
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-04",
         "price_usd": 39.51759751315692,
         "market_cap": 16590657428.301384,
         "volume_24h": 1711810105.7696593
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-05",
         "price_usd": 42.247239673022534,
         "market_cap": 17774131285.113876,
         "volume_24h": 1481652151.3695111
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-06",
         "price_usd": 41.24303597170582,
         "market_cap": 17327989797.5177,
         "volume_24h": 875312405.7095351
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-07",
         "price_usd": 42.093540748889566,
         "market_cap": 17633401515.616535,
         "volume_24h": 1060320191.9564207
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-08",
         "price_usd": 43.10992040160473,
         "market_cap": 18118371837.24985,
         "volume_24h": 1827584301.67423
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-09",
         "price_usd": 43.24925747868605,
         "market_cap": 18224254869.067654,
         "volume_24h": 1063279033.4184498
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-10",
         "price_usd": 45.358054333499396,
         "market_cap": 19039251761.549587,
         "volume_24h": 2968223146.230271
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-11",
         "price_usd": 56.672751743013606,
         "market_cap": 23890974567.182682,
         "volume_24h": 3690042341.760421
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-12",
         "price_usd": 56.46969150990378,
         "market_cap": 23802514066.26354,
         "volume_24h": 4048826273.4731865
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-13",
         "price_usd": 55.96301542172404,
         "market_cap": 23626834466.27276,
         "volume_24h": 2834634629.093761
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-14",
         "price_usd": 52.21016126845803,
         "market_cap": 22071829319.859287,
         "volume_24h": 2938768160.6217985
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-15",
         "price_usd": 56.84724399563444,
         "market_cap": 24025150540.45894,
         "volume_24h": 3136578714.75117
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-16",
         "price_usd": 65.42118249740835,
         "market_cap": 27523565135.285206,
         "volume_24h": 3841779027.466748
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-17",
         "price_usd": 57.85936549623421,
         "market_cap": 24454321066.849117,
         "volume_24h": 3893498754.7018604
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-18",
         "price_usd": 58.08749906248073,
         "market_cap": 24667662889.707996,
         "volume_24h": 3253569217.711946
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-19",
         "price_usd": 58.43785104837524,
         "market_cap": 24711969043.560658,
         "volume_24h": 2007825165.7945588
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-20",
         "price_usd": 61.4682208972665,
         "market_cap": 26038968868.90716,
         "volume_24h": 2011969090.8935194
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-21",
         "price_usd": 56.387561224796215,
         "market_cap": 23837278052.150414,
         "volume_24h": 2046131779.7969346
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-22",
         "price_usd": 52.03847144243665,
         "market_cap": 22095435188.78951,
         "volume_24h": 2457528360.2158194
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-23",
         "price_usd": 57.63985489059395,
         "market_cap": 24392491443.20616,
         "volume_24h": 2055159909.0505433
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-24",
         "price_usd": 56.6256819382833,
         "market_cap": 23970546237.515842,
         "volume_24h": 1373270432.8621953
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-25",
         "price_usd": 56.87305815164875,
         "market_cap": 24061449315.617107,
         "volume_24h": 1165085857.1832347
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-26",
         "price_usd": 58.81319665255164,
         "market_cap": 24902981174.693375,
         "volume_24h": 1170624892.294504
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-27",
         "price_usd": 57.65563041451083,
         "market_cap": 24415212865.335167,
         "volume_24h": 905466988.4548694
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-28",
         "price_usd": 55.12228632634998,
         "market_cap": 23317839078.34003,
         "volume_24h": 1272604084.6066368
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-29",
         "price_usd": 58.21650838026634,
         "market_cap": 24600212078.53859,
         "volume_24h": 1455818631.3582225
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-11-30",
         "price_usd": 59.132384073791634,
         "market_cap": 25088888782.540813,
         "volume_24h": 2011099344.8000524
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-01",
         "price_usd": 59.17998717985522,
         "market_cap": 25108803752.086666,
         "volume_24h": 1302914768.2270465
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-02",
         "price_usd": 59.82358486245393,
         "market_cap": 25352598328.428997,
         "volume_24h": 1458566131.3202488
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-03",
         "price_usd": 63.54188841925499,
         "market_cap": 26881444684.92962,
         "volume_24h": 1384599876.700091
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-04",
         "price_usd": 63.0169956421846,
         "market_cap": 26766190167.25173,
         "volume_24h": 1376347106.6756947
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-05",
         "price_usd": 61.55125929559973,
         "market_cap": 26112261419.98071,
         "volume_24h": 2239941715.4175754
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-06",
         "price_usd": 60.9025608945616,
         "market_cap": 25906943014.62848,
         "volume_24h": 1689507437.5682876
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-07",
         "price_usd": 62.23204453296526,
         "market_cap": 26519800255.084682,
         "volume_24h": 3018024425.378191
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-08",
         "price_usd": 67.69386460535054,
         "market_cap": 28837571556.753944,
         "volume_24h": 3087225477.7567286
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-09",
         "price_usd": 74.84216401576747,
         "market_cap": 31939635291.86702,
         "volume_24h": 3651681520.082631
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-10",
         "price_usd": 72.42222406518073,
         "market_cap": 30868914479.546883,
         "volume_24h": 2990090048.521119
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-11",
         "price_usd": 74.42357981310117,
         "market_cap": 31639909291.568317,
         "volume_24h": 1933934506.779548
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-12",
         "price_usd": 70.20241559474354,
         "market_cap": 29912836736.92384,
         "volume_24h": 3839992454.6821027
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-13",
         "price_usd": 68.52923871075102,
         "market_cap": 29261837474.95887,
         "volume_24h": 2426662308.191913
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-14",
         "price_usd": 70.73839652886984,
         "market_cap": 30236312485.346966,
         "volume_24h": 2532486875.049152
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-15",
         "price_usd": 75.65588800857071,
         "market_cap": 32382885128.146465,
         "volume_24h": 2496513420.5195365
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-16",
         "price_usd": 72.61814382762158,
         "market_cap": 31160870071.512493,
         "volume_24h": 2696772682.744241
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-17",
         "price_usd": 73.3895965701486,
         "market_cap": 31406371759.65062,
         "volume_24h": 1841818464.1871302
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-18",
         "price_usd": 71.09304612532529,
         "market_cap": 30373366926.657185,
         "volume_24h": 1557234022.8754864
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-19",
         "price_usd": 74.34092711768113,
         "market_cap": 31797760802.78102,
         "volume_24h": 2363667921.6380463
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-20",
         "price_usd": 72.61144991141754,
         "market_cap": 31049007031.4802,
         "volume_24h": 1948577967.428861
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-21",
         "price_usd": 82.09852590231738,
         "market_cap": 35036559621.049866,
         "volume_24h": 3820149653.3988895
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-22",
         "price_usd": 93.93807648899407,
         "market_cap": 40139662988.83128,
         "volume_24h": 4904778953.563533
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-23",
         "price_usd": 98.07800224122698,
         "market_cap": 41936984906.30874,
         "volume_24h": 5239342313.793104
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-24",
         "price_usd": 107.63981717421447,
         "market_cap": 46067150224.366264,
         "volume_24h": 3932338834.676097
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-25",
         "price_usd": 112.44835843501905,
         "market_cap": 48130186348.93925,
         "volume_24h": 6224138352.726561
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-26",
         "price_usd": 121.44659325631167,
         "market_cap": 51905964256.03442,
         "volume_24h": 5738514622.255752
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-27",
         "price_usd": 112.32551605046484,
         "market_cap": 47816051843.275856,
         "volume_24h": 4346114224.039255
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-28",
         "price_usd": 106.97705414292456,
         "market_cap": 45769688224.76657,
         "volume_24h": 4238903992.194386
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-29",
         "price_usd": 102.25382476175545,
         "market_cap": 43945886274.36204,
         "volume_24h": 4586529583.395684
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-30",
         "price_usd": 106.25256071597002,
         "market_cap": 45547782244.27374,
         "volume_24h": 4343029162.300508
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2023-12-31",
         "price_usd": 101.98883539812843,
         "market_cap": 43785435164.6565,
         "volume_24h": 1833433846.9272847
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-01",
         "price_usd": 101.33317837845607,
         "market_cap": 43557642382.91047,
         "volume_24h": 1774875786.514594
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-02",
         "price_usd": 109.44408162860023,
         "market_cap": 47006338489.28494,
         "volume_24h": 2214023277.943569
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-03",
         "price_usd": 106.66317351273963,
         "market_cap": 45770111069.17999,
         "volume_24h": 3809986338.1849504
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-04",
         "price_usd": 98.618625629318,
         "market_cap": 42416625922.3214,
         "volume_24h": 5263410468.581045
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-05",
         "price_usd": 104.8407815170403,
         "market_cap": 45108341841.75201,
         "volume_24h": 3262980619.206502
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-06",
         "price_usd": 99.79527781452578,
         "market_cap": 43005412146.86797,
         "volume_24h": 2955669961.82839
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-07",
         "price_usd": 93.67595830573333,
         "market_cap": 40341046148.6674,
         "volume_24h": 2220640084.5668583
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-08",
         "price_usd": 88.92454619256625,
         "market_cap": 38353496896.01169,
         "volume_24h": 2189403802.3900533
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-09",
         "price_usd": 97.65874169169724,
         "market_cap": 42169330331.765785,
         "volume_24h": 3950758921.474186
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-10",
         "price_usd": 98.7515137293353,
         "market_cap": 42627288796.39558,
         "volume_24h": 3871179261.052206
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-11",
         "price_usd": 102.41348181114401,
         "market_cap": 44241372072.84427,
         "volume_24h": 3865165740.024791
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-12",
         "price_usd": 99.98590880200555,
         "market_cap": 43224396745.535324,
         "volume_24h": 4022331019.561001
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-13",
         "price_usd": 91.49974928746796,
         "market_cap": 39503238769.71002,
         "volume_24h": 2734892250.2668905
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-14",
         "price_usd": 95.63334726603965,
         "market_cap": 41338579660.93868,
         "volume_24h": 1873558891.8758016
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-15",
         "price_usd": 94.11863591050141,
         "market_cap": 40910904033.30603,
         "volume_24h": 2580600236.4078503
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-16",
         "price_usd": 94.39674016420685,
         "market_cap": 40853886226.541885,
         "volume_24h": 1779198447.0488913
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-17",
         "price_usd": 97.55676426862223,
         "market_cap": 42218185004.543945,
         "volume_24h": 1816203365.4935129
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-18",
         "price_usd": 101.50125957317499,
         "market_cap": 43918459381.6917,
         "volume_24h": 3218955061.4833794
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-19",
         "price_usd": 94.28013186654485,
         "market_cap": 40824171089.702095,
         "volume_24h": 2756021291.3233085
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-20",
         "price_usd": 93.32520105608964,
         "market_cap": 40338377669.27168,
         "volume_24h": 2760699292.4330835
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-21",
         "price_usd": 92.58976400255906,
         "market_cap": 40089978741.00717,
         "volume_24h": 1256377866.267364
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-22",
         "price_usd": 91.1623559089012,
         "market_cap": 39512481021.428154,
         "volume_24h": 908792093.0500989
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-23",
         "price_usd": 83.43623260957541,
         "market_cap": 36111047577.45998,
         "volume_24h": 2814098815.451897
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-24",
         "price_usd": 84.09771204633358,
         "market_cap": 36311461849.31265,
         "volume_24h": 2987147103.1980157
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-25",
         "price_usd": 88.97403797468365,
         "market_cap": 38534021790.14314,
         "volume_24h": 2385029340.1463356
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-26",
         "price_usd": 86.98335038241241,
         "market_cap": 37657090256.50069,
         "volume_24h": 1905313727.436813
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-27",
         "price_usd": 92.36475145633213,
         "market_cap": 39963699730.98301,
         "volume_24h": 2146548098.7348835
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-28",
         "price_usd": 94.07418620571138,
         "market_cap": 40773572380.15453,
         "volume_24h": 1252486460.2425928
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-29",
         "price_usd": 95.96656618849008,
         "market_cap": 41598860413.28886,
         "volume_24h": 2522516027.452199
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-30",
         "price_usd": 101.41999625662424,
         "market_cap": 44237194959.54558,
         "volume_24h": 2632528657.08934
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-01-31",
         "price_usd": 101.49112290376424,
         "market_cap": 44149841778.04821,
         "volume_24h": 3637727026.6659613
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-01",
         "price_usd": 96.93179951000184,
         "market_cap": 42259374417.28451,
         "volume_24h": 3873450832.2090034
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-02",
         "price_usd": 97.79003124090778,
         "market_cap": 42590324375.05028,
         "volume_24h": 3016997024.0845313
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-03",
         "price_usd": 100.46548063117393,
         "market_cap": 43811141503.445335,
         "volume_24h": 2624103346.4808416
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-04",
         "price_usd": 97.76713809513306,
         "market_cap": 42611107982.48974,
         "volume_24h": 1416764974.2861667
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-05",
         "price_usd": 95.47210966234701,
         "market_cap": 41602993219.1009,
         "volume_24h": 1353636742.875246
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-06",
         "price_usd": 95.66801933804179,
         "market_cap": 41727362697.026825,
         "volume_24h": 1933675388.1619544
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-07",
         "price_usd": 96.91999534970711,
         "market_cap": 42268993503.10137,
         "volume_24h": 1900368062.9579785
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-08",
         "price_usd": 100.8620197849941,
         "market_cap": 44086978409.43825,
         "volume_24h": 1921482749.676069
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-09",
         "price_usd": 102.90366855652807,
         "market_cap": 44986092796.23713,
         "volume_24h": 2458956241.2991543
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-10",
         "price_usd": 107.0340359221691,
         "market_cap": 46821270307.69528,
         "volume_24h": 3256188126.6095295
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-11",
         "price_usd": 108.9914614336289,
         "market_cap": 47626799918.99898,
         "volume_24h": 1814393079.83351
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-12",
         "price_usd": 107.42381253614128,
         "market_cap": 46970508598.610954,
         "volume_24h": 1459554075.7090495
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-13",
         "price_usd": 112.03681818642013,
         "market_cap": 48881521826.95636,
         "volume_24h": 2920187526.7224092
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-14",
         "price_usd": 112.5991116485891,
         "market_cap": 49200636584.9414,
         "volume_24h": 2874714544.053641
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-15",
         "price_usd": 116.97610655690055,
         "market_cap": 51223725720.39541,
         "volume_24h": 2490685229.576592
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-16",
         "price_usd": 113.5993942511846,
         "market_cap": 50054269103.93001,
         "volume_24h": 2539535902.841629
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-17",
         "price_usd": 110.50155056850862,
         "market_cap": 48713273174.4888,
         "volume_24h": 1882206888.8364744
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-18",
         "price_usd": 108.92851023151393,
         "market_cap": 48116477499.560936,
         "volume_24h": 1366271024.686035
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-19",
         "price_usd": 112.21541634982898,
         "market_cap": 49474158579.09777,
         "volume_24h": 1551221254.069266
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-20",
         "price_usd": 111.27808859030418,
         "market_cap": 49013622667.08547,
         "volume_24h": 1984160421.2266989
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-21",
         "price_usd": 108.56412084328196,
         "market_cap": 47893142417.96313,
         "volume_24h": 2872884276.405752
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-22",
         "price_usd": 105.34263381767492,
         "market_cap": 46454513229.83535,
         "volume_24h": 2737171219.287656
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-23",
         "price_usd": 102.0417796526056,
         "market_cap": 44975179369.543365,
         "volume_24h": 2309956159.574661
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-24",
         "price_usd": 100.09194937035414,
         "market_cap": 44207212470.28615,
         "volume_24h": 2027797244.334062
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-25",
         "price_usd": 104.18872590266118,
         "market_cap": 45956101626.76592,
         "volume_24h": 1441375083.186619
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-26",
         "price_usd": 103.4386239643384,
         "market_cap": 45607368722.22022,
         "volume_24h": 1203834614.7037158
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-27",
         "price_usd": 109.84509740259054,
         "market_cap": 48479693900.729256,
         "volume_24h": 2465100722.619365
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-28",
         "price_usd": 108.17696263039223,
         "market_cap": 47818062228.12062,
         "volume_24h": 3541852280.448018
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-02-29",
         "price_usd": 117.43028413751361,
         "market_cap": 51987858810.85375,
         "volume_24h": 5694262625.223801
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-01",
         "price_usd": 125.6818167628113,
         "market_cap": 55782452212.297585,
         "volume_24h": 8070920258.119165
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-02",
         "price_usd": 130.0470586239426,
         "market_cap": 57670794534.933525,
         "volume_24h": 5400962583.213069
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-03",
         "price_usd": 129.8816532496919,
         "market_cap": 57526283521.35976,
         "volume_24h": 3090626520.312499
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-04",
         "price_usd": 130.30611971907615,
         "market_cap": 57634661052.93364,
         "volume_24h": 3362221535.2339334
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-05",
         "price_usd": 133.32371555063142,
         "market_cap": 58905211978.42328,
         "volume_24h": 4456997733.50504
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-06",
         "price_usd": 126.39112339694104,
         "market_cap": 55994211147.81779,
         "volume_24h": 9474088055.624058
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-07",
         "price_usd": 130.66706419099268,
         "market_cap": 57750807855.93927,
         "volume_24h": 5149667738.287846
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-08",
         "price_usd": 144.10503256536765,
         "market_cap": 63894153486.63505,
         "volume_24h": 7176946154.432181
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-09",
         "price_usd": 145.19146101509426,
         "market_cap": 64314627608.68617,
         "volume_24h": 5495476291.480904
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-10",
         "price_usd": 144.81714849291387,
         "market_cap": 64204155811.87283,
         "volume_24h": 2989788017.2095094
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-11",
         "price_usd": 144.25771555596154,
         "market_cap": 63915400688.66565,
         "volume_24h": 3606621287.914232
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-12",
         "price_usd": 148.79327935268395,
         "market_cap": 65982204368.10759,
         "volume_24h": 5948377808.486974
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-13",
         "price_usd": 150.72986927133826,
         "market_cap": 66773366688.398384,
         "volume_24h": 7152600912.428022
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-14",
         "price_usd": 163.62579653208232,
         "market_cap": 72573154800.36514,
         "volume_24h": 6106705185.804832
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-15",
         "price_usd": 176.2229997396476,
         "market_cap": 77993881680.2228,
         "volume_24h": 9107864294.524399
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-16",
         "price_usd": 183.9242834890865,
         "market_cap": 81845073461.4935,
         "volume_24h": 14052203542.304317
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-17",
         "price_usd": 180.80173842188316,
         "market_cap": 80284415527.02771,
         "volume_24h": 12283471205.374184
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-18",
         "price_usd": 202.51891185720268,
         "market_cap": 89815964680.74742,
         "volume_24h": 11964573089.442522
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-19",
         "price_usd": 196.34529342439117,
         "market_cap": 87207130383.47609,
         "volume_24h": 12536486966.095617
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-20",
         "price_usd": 169.59755629640884,
         "market_cap": 75621938582.8277,
         "volume_24h": 11941248034.676855
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-21",
         "price_usd": 191.44187811368815,
         "market_cap": 85004052599.30891,
         "volume_24h": 9142062431.25945
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-22",
         "price_usd": 179.5544644084378,
         "market_cap": 79806198240.29042,
         "volume_24h": 6102628997.712434
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-23",
         "price_usd": 173.45563634427955,
         "market_cap": 76738474078.01993,
         "volume_24h": 4530693846.294226
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-24",
         "price_usd": 173.4537726410555,
         "market_cap": 77052625363.61342,
         "volume_24h": 2950137170.126533
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-25",
         "price_usd": 184.02186416380982,
         "market_cap": 81893130320.22795,
         "volume_24h": 2903673332.7955723
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-26",
         "price_usd": 188.99685465903278,
         "market_cap": 83839327740.13148,
         "volume_24h": 4384505429.329716
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-27",
         "price_usd": 191.23614507446956,
         "market_cap": 84838706571.2534,
         "volume_24h": 4010909565.8450103
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-28",
         "price_usd": 186.13894375748401,
         "market_cap": 82360081157.45738,
         "volume_24h": 4361858281.408015
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-29",
         "price_usd": 189.5749906128262,
         "market_cap": 84248853020.74065,
         "volume_24h": 3248950673.7290506
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-30",
         "price_usd": 192.02726585672397,
         "market_cap": 85315571281.60542,
         "volume_24h": 3453390013.97765
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-03-31",
         "price_usd": 194.48104356471714,
         "market_cap": 86396723742.68846,
         "volume_24h": 3155980892.5212865
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-01",
         "price_usd": 202.81432536234064,
         "market_cap": 90107848570.01535,
         "volume_24h": 2561740240.2378783
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-02",
         "price_usd": 192.7252498952993,
         "market_cap": 85854792170.67822,
         "volume_24h": 4161058168.3299327
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-03",
         "price_usd": 181.44094341124986,
         "market_cap": 80782956311.50485,
         "volume_24h": 5007455901.9576235
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-04",
         "price_usd": 185.51116280992997,
         "market_cap": 82629121371.8504,
         "volume_24h": 4556585967.640312
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-05",
         "price_usd": 183.82146316534414,
         "market_cap": 81675237331.00743,
         "volume_24h": 4485788181.90427
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-06",
         "price_usd": 175.16816341233152,
         "market_cap": 77960489740.01663,
         "volume_24h": 7594790232.57952
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-07",
         "price_usd": 178.95970355653492,
         "market_cap": 79571266962.5395,
         "volume_24h": 4990294576.811096
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-08",
         "price_usd": 179.58218749799138,
         "market_cap": 80125616078.59949,
         "volume_24h": 1994743993.585054
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-09",
         "price_usd": 180.64287344561157,
         "market_cap": 80535874865.26263,
         "volume_24h": 3098234371.4541388
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-10",
         "price_usd": 172.5466374234224,
         "market_cap": 77044233758.35966,
         "volume_24h": 2989133750.672942
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-11",
         "price_usd": 173.12196064411097,
         "market_cap": 77185741544.09901,
         "volume_24h": 3758881713.08274
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-12",
         "price_usd": 172.69615902223114,
         "market_cap": 77005624466.19768,
         "volume_24h": 3172488977.0431724
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-13",
         "price_usd": 153.7682811535538,
         "market_cap": 68525412911.207664,
         "volume_24h": 5031415889.586943
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-14",
         "price_usd": 140.18115063206616,
         "market_cap": 62699848804.0115,
         "volume_24h": 9822094693.768135
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-15",
         "price_usd": 151.54672238984352,
         "market_cap": 67806499914.97718,
         "volume_24h": 8511031376.896751
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-16",
         "price_usd": 138.41384909362205,
         "market_cap": 61710007812.6042,
         "volume_24h": 6284717504.940342
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-17",
         "price_usd": 136.41604917198546,
         "market_cap": 60978610966.59865,
         "volume_24h": 5769425609.624948
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-18",
         "price_usd": 132.5311508262506,
         "market_cap": 59211788810.436966,
         "volume_24h": 5195973605.114863
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-19",
         "price_usd": 142.1317166813474,
         "market_cap": 63576116897.51022,
         "volume_24h": 4473576346.080956
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-20",
         "price_usd": 143.2449662842533,
         "market_cap": 64000098017.81668,
         "volume_24h": 6474741719.336926
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-21",
         "price_usd": 150.5170929398806,
         "market_cap": 67222429957.26812,
         "volume_24h": 3334931071.46768
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-22",
         "price_usd": 148.74146308419816,
         "market_cap": 66491092685.51483,
         "volume_24h": 2697656989.1355305
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-23",
         "price_usd": 156.9921721394195,
         "market_cap": 70249892398.89441,
         "volume_24h": 3462456696.352612
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-24",
         "price_usd": 154.69385774418163,
         "market_cap": 69275570262.24135,
         "volume_24h": 3123676555.227696
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-25",
         "price_usd": 147.74509318899663,
         "market_cap": 66011712440.540405,
         "volume_24h": 4398059368.578308
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-26",
         "price_usd": 144.98792922284767,
         "market_cap": 64868424520.28813,
         "volume_24h": 4244001061.9474773
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-27",
         "price_usd": 139.2590067356682,
         "market_cap": 62238094836.14685,
         "volume_24h": 2954045955.297565
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-28",
         "price_usd": 141.58180881704862,
         "market_cap": 63319042460.19269,
         "volume_24h": 2641127907.433396
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-29",
         "price_usd": 137.71788471179437,
         "market_cap": 61615451344.778175,
         "volume_24h": 2093759582.375021
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-04-30",
         "price_usd": 137.6714796361837,
         "market_cap": 61596557366.24163,
         "volume_24h": 2710939729.917527
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-01",
         "price_usd": 127.0390830996602,
         "market_cap": 57068380747.46253,
         "volume_24h": 3949643280.4869456
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-02",
         "price_usd": 134.753621251331,
         "market_cap": 60292554289.61039,
         "volume_24h": 4578078057.900455
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-03",
         "price_usd": 137.9156486710101,
         "market_cap": 61642176220.23793,
         "volume_24h": 4018763780.3042684
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-04",
         "price_usd": 143.5498729974885,
         "market_cap": 64310515828.20989,
         "volume_24h": 3482326753.116337
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-05",
         "price_usd": 146.11104319236458,
         "market_cap": 65431940754.60709,
         "volume_24h": 3337411967.8213387
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-06",
         "price_usd": 145.68571274466362,
         "market_cap": 65139241740.40005,
         "volume_24h": 2258970970.909871
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-07",
         "price_usd": 152.65486339652605,
         "market_cap": 68319201227.67775,
         "volume_24h": 3129079486.537318
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-08",
         "price_usd": 148.18697723966497,
         "market_cap": 66642348637.88412,
         "volume_24h": 3020806057.077866
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-09",
         "price_usd": 142.5160197700434,
         "market_cap": 63778648967.760185,
         "volume_24h": 3002797158.530531
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-10",
         "price_usd": 152.72554705807713,
         "market_cap": 68446070757.00757,
         "volume_24h": 2769016331.975477
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-11",
         "price_usd": 146.3104978769931,
         "market_cap": 65576191712.31699,
         "volume_24h": 2719661473.0723867
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-12",
         "price_usd": 145.3083544018294,
         "market_cap": 65186852360.18265,
         "volume_24h": 1411338379.683567
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-13",
         "price_usd": 143.58731571295039,
         "market_cap": 64399645373.94642,
         "volume_24h": 1012732259.7845844
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-14",
         "price_usd": 147.14466221396205,
         "market_cap": 65981164547.77246,
         "volume_24h": 2797524777.8003864
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-15",
         "price_usd": 142.0844864886782,
         "market_cap": 63808410155.384514,
         "volume_24h": 2475112749.0764318
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-16",
         "price_usd": 158.01312798977025,
         "market_cap": 71124365755.64029,
         "volume_24h": 3166253780.876326
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-17",
         "price_usd": 159.14533854574205,
         "market_cap": 71485848565.0468,
         "volume_24h": 3010339838.2279334
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-18",
         "price_usd": 169.49970700636922,
         "market_cap": 75995591371.301,
         "volume_24h": 2940812645.724995
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-19",
         "price_usd": 172.45083937260318,
         "market_cap": 77423323444.23485,
         "volume_24h": 2302108117.3224664
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-20",
         "price_usd": 170.0673475386705,
         "market_cap": 76312677475.9591,
         "volume_24h": 2201391269.7896724
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-21",
         "price_usd": 186.3249227218175,
         "market_cap": 83636200098.33824,
         "volume_24h": 4223669415.40993
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-22",
         "price_usd": 178.1744919321701,
         "market_cap": 79995115480.06287,
         "volume_24h": 4264614704.586964
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-23",
         "price_usd": 176.86884758403767,
         "market_cap": 79409425754.64302,
         "volume_24h": 3391953928.275571
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-24",
         "price_usd": 176.0640591935767,
         "market_cap": 79228788063.89075,
         "volume_24h": 4803498929.522145
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-25",
         "price_usd": 167.76687801061138,
         "market_cap": 75398208636.16145,
         "volume_24h": 3550795871.0997787
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-26",
         "price_usd": 168.3697915144665,
         "market_cap": 75661703605.5672,
         "volume_24h": 1678123312.597497
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-27",
         "price_usd": 163.35859974681,
         "market_cap": 73367866647.74002,
         "volume_24h": 2230258323.6142364
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-28",
         "price_usd": 169.81442537506513,
         "market_cap": 76290531024.18916,
         "volume_24h": 2411003712.567338
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-29",
         "price_usd": 168.75055773108363,
         "market_cap": 77608694232.90857,
         "volume_24h": 2899980604.0982533
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-30",
         "price_usd": 168.13546936257387,
         "market_cap": 77252186457.9422,
         "volume_24h": 2520229123.3687077
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-05-31",
         "price_usd": 167.014473333231,
         "market_cap": 76758497378.74059,
         "volume_24h": 2816032327.0417314
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-01",
         "price_usd": 165.91353028162595,
         "market_cap": 76308339528.46367,
         "volume_24h": 2443689641.7254596
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-02",
         "price_usd": 165.9632350083908,
         "market_cap": 76177678589.68294,
         "volume_24h": 1004763875.4137435
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-03",
         "price_usd": 163.11854094832748,
         "market_cap": 75050958641.62373,
         "volume_24h": 1496336327.6789188
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-04",
         "price_usd": 164.81254949676975,
         "market_cap": 75681627881.0628,
         "volume_24h": 2044856437.252917
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-05",
         "price_usd": 171.7281286123733,
         "market_cap": 78880758222.48264,
         "volume_24h": 1750946991.7273138
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-06",
         "price_usd": 173.76957145050255,
         "market_cap": 79780936079.13075,
         "volume_24h": 2286674729.7825136
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-07",
         "price_usd": 170.37271994953753,
         "market_cap": 78444394866.65672,
         "volume_24h": 1965476413.9809701
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-08",
         "price_usd": 162.4532049787127,
         "market_cap": 74856130848.93568,
         "volume_24h": 3548053094.3234396
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-09",
         "price_usd": 158.1807505205203,
         "market_cap": 72835917814.34517,
         "volume_24h": 1667795117.6359415
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-10",
         "price_usd": 162.063709361357,
         "market_cap": 74673430538.47688,
         "volume_24h": 1435770777.5513241
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-11",
         "price_usd": 158.8863716164394,
         "market_cap": 73151424296.10939,
         "volume_24h": 1758494775.187192
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-12",
         "price_usd": 149.30184393721757,
         "market_cap": 68854872917.61719,
         "volume_24h": 3108518009.005868
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-13",
         "price_usd": 154.85704243492725,
         "market_cap": 71448945051.62373,
         "volume_24h": 3134898978.6059284
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-14",
         "price_usd": 147.23468433017004,
         "market_cap": 68032711460.25852,
         "volume_24h": 2420812427.9759216
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-15",
         "price_usd": 143.0214313059618,
         "market_cap": 66064522093.40304,
         "volume_24h": 2657809423.314454
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-16",
         "price_usd": 145.28190108402654,
         "market_cap": 67039970053.087814,
         "volume_24h": 1163447784.5279427
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-17",
         "price_usd": 150.65560322695782,
         "market_cap": 69579290410.68553,
         "volume_24h": 1310561237.9828827
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-18",
         "price_usd": 143.201979419663,
         "market_cap": 66094864030.905464,
         "volume_24h": 2454137648.172359
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-19",
         "price_usd": 137.4629937319601,
         "market_cap": 63233499041.35268,
         "volume_24h": 4344910154.552924
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-20",
         "price_usd": 135.40309403154043,
         "market_cap": 62361208241.968605,
         "volume_24h": 2636123561.8074226
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-21",
         "price_usd": 133.44256940911677,
         "market_cap": 61706156570.99528,
         "volume_24h": 2560257578.8712974
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-22",
         "price_usd": 134.51329489326994,
         "market_cap": 62078256801.37986,
         "volume_24h": 2427905741.2715335
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-23",
         "price_usd": 133.48608472760722,
         "market_cap": 61606686233.870865,
         "volume_24h": 1097684600.3022025
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-24",
         "price_usd": 128.54028172949205,
         "market_cap": 59352841547.741,
         "volume_24h": 1252604454.7991865
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-25",
         "price_usd": 132.3377865818776,
         "market_cap": 61042345065.70789,
         "volume_24h": 3858603868.9472075
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-26",
         "price_usd": 136.51374501335556,
         "market_cap": 63106257051.66343,
         "volume_24h": 2814099573.8678613
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-27",
         "price_usd": 136.4415134350111,
         "market_cap": 63108597357.703316,
         "volume_24h": 1948967423.6505835
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-28",
         "price_usd": 149.23075419544415,
         "market_cap": 68956935473.7399,
         "volume_24h": 3176696321.950792
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-29",
         "price_usd": 139.72594706135848,
         "market_cap": 64611649671.817276,
         "volume_24h": 2594297845.7966657
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-06-30",
         "price_usd": 139.86689852094338,
         "market_cap": 64693099935.25913,
         "volume_24h": 1346294362.1943076
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-01",
         "price_usd": 146.42869641202853,
         "market_cap": 67675125124.59939,
         "volume_24h": 1780441975.6133604
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-02",
         "price_usd": 146.34737782842973,
         "market_cap": 67673065514.69488,
         "volume_24h": 2006890597.1463182
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-03",
         "price_usd": 153.63922449411186,
         "market_cap": 71136229946.13242,
         "volume_24h": 2426999726.934943
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-04",
         "price_usd": 140.7242009904032,
         "market_cap": 65082723830.858505,
         "volume_24h": 3214187013.5043983
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-05",
         "price_usd": 127.93484525812943,
         "market_cap": 59426641950.27212,
         "volume_24h": 3791021538.3341756
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-06",
         "price_usd": 134.41985405373308,
         "market_cap": 62269271952.277084,
         "volume_24h": 5884811589.169382
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-07",
         "price_usd": 143.1010931430681,
         "market_cap": 66217813182.98343,
         "volume_24h": 2489336508.5500417
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-08",
         "price_usd": 131.85304400674195,
         "market_cap": 61059941285.76865,
         "volume_24h": 2189333148.6797557
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-09",
         "price_usd": 139.3176879675135,
         "market_cap": 64537904951.409996,
         "volume_24h": 4080257370.582092
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-10",
         "price_usd": 141.45706675192378,
         "market_cap": 65737860357.994644,
         "volume_24h": 2918129762.127563
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-11",
         "price_usd": 141.92265716309768,
         "market_cap": 65837743099.40003,
         "volume_24h": 2267417219.9193945
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-12",
         "price_usd": 136.0741315804191,
         "market_cap": 63095416379.09987,
         "volume_24h": 2968505762.681664
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-13",
         "price_usd": 139.36219270413474,
         "market_cap": 64601740344.9905,
         "volume_24h": 2492119021.139762
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-14",
         "price_usd": 141.6752437311082,
         "market_cap": 65828079252.62245,
         "volume_24h": 1319666582.8903584
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-15",
         "price_usd": 147.95483971650256,
         "market_cap": 68729116144.65176,
         "volume_24h": 2482805432.3753552
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-16",
         "price_usd": 159.92387112565993,
         "market_cap": 74102104615.57973,
         "volume_24h": 3109645281.746366
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-17",
         "price_usd": 160.78254302928178,
         "market_cap": 74732938819.62112,
         "volume_24h": 3487082045.509735
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-18",
         "price_usd": 155.40160618387858,
         "market_cap": 72209875941.80649,
         "volume_24h": 2719714237.7638583
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-19",
         "price_usd": 159.01459142432648,
         "market_cap": 73852444296.54735,
         "volume_24h": 2617149109.5042167
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-20",
         "price_usd": 169.216310530705,
         "market_cap": 78561627383.88539,
         "volume_24h": 4472680911.645818
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-21",
         "price_usd": 174.10164864661212,
         "market_cap": 80854762308.1409,
         "volume_24h": 2111299630.434342
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-22",
         "price_usd": 184.45124996312572,
         "market_cap": 85429935644.31656,
         "volume_24h": 4015804659.3674765
     },
     {
+        "name": "Solana",
+        "symbol": "SOL",
         "date": "2024-07-23",
-        "price_usd": 179.95214532925738,
-        "market_cap": 83558089094.49985,
-        "volume_24h": 3290532745.131735
+        "price_usd": 178.98087466888327,
+        "market_cap": 83131628699.86516,
+        "volume_24h": 3355000351.4047484
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOL",
+        "date": "2024-07-24",
+        "price_usd": 172.6530439808153,
+        "market_cap": 80153782598.7446,
+        "volume_24h": 4060251799.263248
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-07-26",
+        "price_usd": 29222.974630383527,
+        "market_cap": 568019115128.7598,
+        "volume_24h": 7929844775.363448
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-07-27",
+        "price_usd": 29363.672907978616,
+        "market_cap": 570531781624.6747,
+        "volume_24h": 13088677750.42505
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-07-28",
+        "price_usd": 29200.244001291314,
+        "market_cap": 567708714251.7643,
+        "volume_24h": 9047649539.81237
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-07-29",
+        "price_usd": 29314.09738709836,
+        "market_cap": 569952119667.3986,
+        "volume_24h": 7682754827.0541115
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-07-30",
+        "price_usd": 29356.74774591667,
+        "market_cap": 570804910032.5747,
+        "volume_24h": 4882536540.911603
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-07-31",
+        "price_usd": 29277.755810272716,
+        "market_cap": 569135711632.8535,
+        "volume_24h": 7872881636.625643
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-01",
+        "price_usd": 29233.136365580438,
+        "market_cap": 568333703606.0996,
+        "volume_24h": 6641808341.386258
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-02",
+        "price_usd": 29537.109746927432,
+        "market_cap": 572408929757.971,
+        "volume_24h": 15289922840.873833
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-03",
+        "price_usd": 29146.63627084363,
+        "market_cap": 567074709353.651,
+        "volume_24h": 19266318894.086517
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-04",
+        "price_usd": 29176.15059658541,
+        "market_cap": 567940644790.4882,
+        "volume_24h": 12539132810.40034
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-05",
+        "price_usd": 29087.938086007627,
+        "market_cap": 565073127339.627,
+        "volume_24h": 12112869085.655884
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-06",
+        "price_usd": 29046.800457023197,
+        "market_cap": 564970113457.8998,
+        "volume_24h": 5335308729.48437
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-07",
+        "price_usd": 29044.204375577556,
+        "market_cap": 564947914083.0184,
+        "volume_24h": 5360283576.269965
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-08",
+        "price_usd": 29178.147751873083,
+        "market_cap": 567529179865.8152,
+        "volume_24h": 13252185122.112452
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-09",
+        "price_usd": 29779.56167125089,
+        "market_cap": 579214283623.8071,
+        "volume_24h": 14603570418.91888
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-10",
+        "price_usd": 29585.48807737921,
+        "market_cap": 575535414817.4033,
+        "volume_24h": 14633310097.491423
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-11",
+        "price_usd": 29423.81891597763,
+        "market_cap": 572414205818.4142,
+        "volume_24h": 8106253519.025447
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-12",
+        "price_usd": 29396.8479714205,
+        "market_cap": 571976559045.8302,
+        "volume_24h": 4651950357.636653
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-13",
+        "price_usd": 29412.142274584105,
+        "market_cap": 572257798803.9086,
+        "volume_24h": 3994297895.288944
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-14",
+        "price_usd": 29284.96971374381,
+        "market_cap": 569687130446.7833,
+        "volume_24h": 4755220448.634491
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-15",
+        "price_usd": 29400.58680419105,
+        "market_cap": 572242735188.2397,
+        "volume_24h": 12408355477.111338
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-16",
+        "price_usd": 29170.490397060614,
+        "market_cap": 567498309102.7323,
+        "volume_24h": 11523395157.99864
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-17",
+        "price_usd": 28754.197021112574,
+        "market_cap": 559982624303.4923,
+        "volume_24h": 14809979642.373245
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-18",
+        "price_usd": 26501.58726991974,
+        "market_cap": 516026928368.83746,
+        "volume_24h": 29965585683.421356
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-19",
+        "price_usd": 26042.838256848998,
+        "market_cap": 506815826635.9217,
+        "volume_24h": 18062351745.50358
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-20",
+        "price_usd": 26104.778630797897,
+        "market_cap": 508087686822.70435,
+        "volume_24h": 3355038748.9824667
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-21",
+        "price_usd": 26160.700419818215,
+        "market_cap": 509078930366.0949,
+        "volume_24h": 8304370131.833873
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-22",
+        "price_usd": 26119.005958595222,
+        "market_cap": 508491920831.3545,
+        "volume_24h": 9377753161.447634
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-23",
+        "price_usd": 26033.675406585844,
+        "market_cap": 506356213378.17975,
+        "volume_24h": 13702941053.015312
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-24",
+        "price_usd": 26450.00862461353,
+        "market_cap": 514955818082.43463,
+        "volume_24h": 14600566342.214415
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-25",
+        "price_usd": 26134.934254516003,
+        "market_cap": 508906955118.32086,
+        "volume_24h": 11961319630.81013
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-26",
+        "price_usd": 26044.036209289134,
+        "market_cap": 507007928705.4434,
+        "volume_24h": 2582213805.5461373
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-27",
+        "price_usd": 26002.015717319366,
+        "market_cap": 506086069151.6848,
+        "volume_24h": 3420999388.355067
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-28",
+        "price_usd": 26082.717178218525,
+        "market_cap": 507835678906.77924,
+        "volume_24h": 4743752357.401259
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-29",
+        "price_usd": 26109.2698239287,
+        "market_cap": 508350651765.9018,
+        "volume_24h": 9995933796.2508
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-30",
+        "price_usd": 27730.50373550554,
+        "market_cap": 539045091002.16876,
+        "volume_24h": 29462388818.839893
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-08-31",
+        "price_usd": 27297.261438480404,
+        "market_cap": 531729400483.3156,
+        "volume_24h": 16029914124.395369
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-01",
+        "price_usd": 25927.417005779287,
+        "market_cap": 505403246528.0237,
+        "volume_24h": 20360682650.055054
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-02",
+        "price_usd": 25812.33049442542,
+        "market_cap": 502687549096.97003,
+        "volume_24h": 15924588668.893366
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-03",
+        "price_usd": 25853.65684277757,
+        "market_cap": 503679892454.50775,
+        "volume_24h": 8203515572.755595
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-04",
+        "price_usd": 25959.596311463454,
+        "market_cap": 505513039060.68445,
+        "volume_24h": 8301138495.084562
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-05",
+        "price_usd": 25829.364772941324,
+        "market_cap": 502409490053.88367,
+        "volume_24h": 6700578092.438599
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-06",
+        "price_usd": 25784.41351983038,
+        "market_cap": 501979376928.41833,
+        "volume_24h": 7633735596.705433
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-07",
+        "price_usd": 25752.958418589413,
+        "market_cap": 501615002105.18665,
+        "volume_24h": 12225427270.62692
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-08",
+        "price_usd": 26192.333433090567,
+        "market_cap": 509837705629.17126,
+        "volume_24h": 4521997781.160889
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-09",
+        "price_usd": 25907.228137249735,
+        "market_cap": 504533063388.2184,
+        "volume_24h": 8058794338.820984
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-10",
+        "price_usd": 25889.3250094629,
+        "market_cap": 504373920218.6837,
+        "volume_24h": 404806432.52168876
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-11",
+        "price_usd": 25834.580098562914,
+        "market_cap": 503489661583.33154,
+        "volume_24h": 6603006234.083502
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-12",
+        "price_usd": 25133.303106566527,
+        "market_cap": 489502952545.6269,
+        "volume_24h": 14859931201.000029
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-13",
+        "price_usd": 25866.806663158084,
+        "market_cap": 503997883573.3815,
+        "volume_24h": 16825266473.048721
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-14",
+        "price_usd": 26223.436075660946,
+        "market_cap": 510909474484.6564,
+        "volume_24h": 12975855576.243193
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-15",
+        "price_usd": 26531.39556626326,
+        "market_cap": 516823786025.9003,
+        "volume_24h": 11739428177.432598
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-16",
+        "price_usd": 26634.631025000588,
+        "market_cap": 518872387637.1001,
+        "volume_24h": 9768889419.723415
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-17",
+        "price_usd": 26557.768691994646,
+        "market_cap": 517396850180.9239,
+        "volume_24h": 1224363671.9175522
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-18",
+        "price_usd": 26520.988254783886,
+        "market_cap": 516614128895.5437,
+        "volume_24h": 5791146184.464804
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-19",
+        "price_usd": 26741.461110948952,
+        "market_cap": 521346975856.46625,
+        "volume_24h": 16477839825.058361
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-20",
+        "price_usd": 27219.296874634216,
+        "market_cap": 530357673731.022,
+        "volume_24h": 12615959842.229395
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-21",
+        "price_usd": 27115.846446970816,
+        "market_cap": 529168513966.1614,
+        "volume_24h": 13497179076.831764
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-22",
+        "price_usd": 26561.133454198716,
+        "market_cap": 517743774814.63885,
+        "volume_24h": 8169328790.751264
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-23",
+        "price_usd": 26572.0381115526,
+        "market_cap": 518383856096.9625,
+        "volume_24h": 9968041758.936823
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-24",
+        "price_usd": 26573.9234797301,
+        "market_cap": 517968304453.25476,
+        "volume_24h": 6583511185.708387
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-25",
+        "price_usd": 26249.562897845204,
+        "market_cap": 511787693512.02826,
+        "volume_24h": 7226298594.4955225
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-26",
+        "price_usd": 26298.634678281232,
+        "market_cap": 512103393581.80255,
+        "volume_24h": 11974957450.276283
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-27",
+        "price_usd": 26204.75759083597,
+        "market_cap": 511054250889.6227,
+        "volume_24h": 9786025048.05344
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-28",
+        "price_usd": 26350.146895428057,
+        "market_cap": 513713645983.85016,
+        "volume_24h": 12889674588.31686
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-29",
+        "price_usd": 27009.01375072488,
+        "market_cap": 526917684460.40546,
+        "volume_24h": 16683207554.844349
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-09-30",
+        "price_usd": 26917.199101637976,
+        "market_cap": 524946724658.764,
+        "volume_24h": 9059145545.41355
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-01",
+        "price_usd": 26969.876144072576,
+        "market_cap": 525936342995.4552,
+        "volume_24h": 6295435107.555985
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-02",
+        "price_usd": 27967.510579087113,
+        "market_cap": 545302108027.2094,
+        "volume_24h": 9358226524.285364
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-03",
+        "price_usd": 27615.06488509527,
+        "market_cap": 538323470357.8827,
+        "volume_24h": 18127133423.881855
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-04",
+        "price_usd": 27439.121946705116,
+        "market_cap": 535605771922.47974,
+        "volume_24h": 12676657038.293432
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-05",
+        "price_usd": 27792.1112772493,
+        "market_cap": 541954661181.1118,
+        "volume_24h": 10876597601.123325
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-06",
+        "price_usd": 27435.874615135104,
+        "market_cap": 534851643044.50543,
+        "volume_24h": 13376186563.311193
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-07",
+        "price_usd": 27958.196437350485,
+        "market_cap": 545154869332.6545,
+        "volume_24h": 13817979024.520027
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-08",
+        "price_usd": 27977.543490700005,
+        "market_cap": 545619681437.3984,
+        "volume_24h": 7226218924.820883
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-09",
+        "price_usd": 27948.10365174851,
+        "market_cap": 544989660641.62256,
+        "volume_24h": 7141598446.869208
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-10",
+        "price_usd": 27593.782534439666,
+        "market_cap": 538282690587.88,
+        "volume_24h": 7640029989.224315
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-11",
+        "price_usd": 27392.247702732497,
+        "market_cap": 535200388379.76337,
+        "volume_24h": 10151720983.669058
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-12",
+        "price_usd": 26842.190439092396,
+        "market_cap": 523656381533.04626,
+        "volume_24h": 14608441295.942532
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-13",
+        "price_usd": 26729.137205815106,
+        "market_cap": 521607675083.3507,
+        "volume_24h": 10867640258.925844
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-14",
+        "price_usd": 26841.136220644406,
+        "market_cap": 523655619453.7407,
+        "volume_24h": 14344414895.617512
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-15",
+        "price_usd": 26863.183569079916,
+        "market_cap": 523979202939.078,
+        "volume_24h": 5543160607.188677
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-16",
+        "price_usd": 27150.29700140705,
+        "market_cap": 529643463244.3381,
+        "volume_24h": 6604845643.42894
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-17",
+        "price_usd": 28513.30993247735,
+        "market_cap": 555338775502.1107,
+        "volume_24h": 22792799561.834
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-18",
+        "price_usd": 28417.72175169982,
+        "market_cap": 555003134086.2079,
+        "volume_24h": 10403248077.491972
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-19",
+        "price_usd": 28328.245198134824,
+        "market_cap": 553311088369.7102,
+        "volume_24h": 13461030457.558897
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-20",
+        "price_usd": 28715.748142407952,
+        "market_cap": 559364043794.7655,
+        "volume_24h": 11193923144.463654
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-21",
+        "price_usd": 29677.392888476206,
+        "market_cap": 579536788709.3126,
+        "volume_24h": 23561406297.715862
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-22",
+        "price_usd": 29920.07449265145,
+        "market_cap": 583719549318.5221,
+        "volume_24h": 7452489477.484937
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-23",
+        "price_usd": 30019.38050086351,
+        "market_cap": 583399133857.2509,
+        "volume_24h": 11330304246.065748
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-24",
+        "price_usd": 32953.262760830985,
+        "market_cap": 641535355789.0791,
+        "volume_24h": 35558857925.14893
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-25",
+        "price_usd": 33846.72425733224,
+        "market_cap": 660676033939.1393,
+        "volume_24h": 46464714676.18555
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-26",
+        "price_usd": 34471.986031672015,
+        "market_cap": 673948847498.8158,
+        "volume_24h": 23840463172.498646
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-27",
+        "price_usd": 34174.451552912586,
+        "market_cap": 667401630872.5822,
+        "volume_24h": 17712548549.578587
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-28",
+        "price_usd": 33899.09305644032,
+        "market_cap": 662119938018.2968,
+        "volume_24h": 14148818689.499771
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-29",
+        "price_usd": 34092.630932838576,
+        "market_cap": 665892923223.9833,
+        "volume_24h": 8431785274.868206
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-30",
+        "price_usd": 34556.242814761616,
+        "market_cap": 674293769229.6088,
+        "volume_24h": 10359013389.425524
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-10-31",
+        "price_usd": 34498.70391946407,
+        "market_cap": 673508057017.6387,
+        "volume_24h": 17075173423.648043
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-01",
+        "price_usd": 34672.2892841885,
+        "market_cap": 676319525450.0793,
+        "volume_24h": 16419150928.652367
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-02",
+        "price_usd": 35457.45491210553,
+        "market_cap": 692543794894.7606,
+        "volume_24h": 18642295524.912045
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-03",
+        "price_usd": 34924.05545044328,
+        "market_cap": 681560028736.5514,
+        "volume_24h": 20690186421.955303
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-04",
+        "price_usd": 34731.38136896784,
+        "market_cap": 677974451476.0634,
+        "volume_24h": 17254049537.002068
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-05",
+        "price_usd": 35048.407834901074,
+        "market_cap": 685385094861.7168,
+        "volume_24h": 10001404422.938835
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-06",
+        "price_usd": 35061.92874919579,
+        "market_cap": 684647430279.3319,
+        "volume_24h": 12796779677.519655
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-07",
+        "price_usd": 35031.26888208706,
+        "market_cap": 683644463783.0627,
+        "volume_24h": 12717348149.539808
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-08",
+        "price_usd": 35436.53762957962,
+        "market_cap": 691660755958.351,
+        "volume_24h": 18582602380.374496
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-09",
+        "price_usd": 35795.080630710196,
+        "market_cap": 699187515031.6934,
+        "volume_24h": 14717120833.223528
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-10",
+        "price_usd": 36768.42081912672,
+        "market_cap": 717022051490.4104,
+        "volume_24h": 38190964507.15763
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-11",
+        "price_usd": 37344.249000720345,
+        "market_cap": 730760729870.4996,
+        "volume_24h": 23152060053.421646
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-12",
+        "price_usd": 37122.722824306555,
+        "market_cap": 720323851790.6948,
+        "volume_24h": 12033297219.971031
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-13",
+        "price_usd": 37067.69698212008,
+        "market_cap": 725016899532.0363,
+        "volume_24h": 8831221164.408867
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-14",
+        "price_usd": 36549.16204829837,
+        "market_cap": 714263437353.6985,
+        "volume_24h": 18041088204.36723
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-15",
+        "price_usd": 35545.201433454065,
+        "market_cap": 694845286838.959,
+        "volume_24h": 22330924588.059715
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-16",
+        "price_usd": 37903.66245166294,
+        "market_cap": 739215831747.2646,
+        "volume_24h": 28479730068.295124
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-17",
+        "price_usd": 36201.51611146142,
+        "market_cap": 707488742969.5619,
+        "volume_24h": 12023334732.149555
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-18",
+        "price_usd": 36527.76022530742,
+        "market_cap": 714651953916.8749,
+        "volume_24h": 22683923623.963726
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-19",
+        "price_usd": 36582.36844192274,
+        "market_cap": 715117663450.342,
+        "volume_24h": 8877846889.346693
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-20",
+        "price_usd": 37413.99460790531,
+        "market_cap": 732521837352.2426,
+        "volume_24h": 12599067947.734495
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-21",
+        "price_usd": 37489.298470802016,
+        "market_cap": 732673492672.5168,
+        "volume_24h": 16005284775.311718
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-22",
+        "price_usd": 35965.36036068078,
+        "market_cap": 702705880301.6978,
+        "volume_24h": 18891503534.641026
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-23",
+        "price_usd": 37464.83293220907,
+        "market_cap": 732259726682.3702,
+        "volume_24h": 25245202377.321384
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-24",
+        "price_usd": 37293.316127426726,
+        "market_cap": 728816537112.472,
+        "volume_24h": 11956046626.60703
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-25",
+        "price_usd": 37738.93169747125,
+        "market_cap": 737614054534.8141,
+        "volume_24h": 22996708651.54232
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-26",
+        "price_usd": 37809.85286625321,
+        "market_cap": 739536714717.2401,
+        "volume_24h": 7505379785.011788
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-27",
+        "price_usd": 37491.838186008135,
+        "market_cap": 733376783676.3198,
+        "volume_24h": 10229112671.374176
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-28",
+        "price_usd": 37250.16905148115,
+        "market_cap": 728040168286.0479,
+        "volume_24h": 17979133247.880783
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-29",
+        "price_usd": 37802.23604377473,
+        "market_cap": 738816928726.5587,
+        "volume_24h": 19715537240.688644
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-11-30",
+        "price_usd": 37810.34641654128,
+        "market_cap": 740494537382.5989,
+        "volume_24h": 20964545194.804527
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-01",
+        "price_usd": 37711.81837585267,
+        "market_cap": 737659515838.6104,
+        "volume_24h": 16566770727.560837
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-02",
+        "price_usd": 38688.25874179069,
+        "market_cap": 756249390093.0282,
+        "volume_24h": 24470176251.56647
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-03",
+        "price_usd": 39481.666416062864,
+        "market_cap": 771834682369.2777,
+        "volume_24h": 14892418344.328642
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-04",
+        "price_usd": 39960.275420410515,
+        "market_cap": 782845232813.069,
+        "volume_24h": 14107800648.629307
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-05",
+        "price_usd": 41974.331772543344,
+        "market_cap": 820527379429.3416,
+        "volume_24h": 40273974905.38232
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-06",
+        "price_usd": 44105.94477259938,
+        "market_cap": 863171503830.3232,
+        "volume_24h": 37740677039.99004
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-07",
+        "price_usd": 43788.28880825234,
+        "market_cap": 857037901744.5414,
+        "volume_24h": 30306637687.601166
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-08",
+        "price_usd": 43270.11955970747,
+        "market_cap": 848245522795.3333,
+        "volume_24h": 27712048105.023373
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-09",
+        "price_usd": 44202.17610943621,
+        "market_cap": 863242780337.311,
+        "volume_24h": 24726661392.984177
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-10",
+        "price_usd": 43745.49199189547,
+        "market_cap": 855611272269.695,
+        "volume_24h": 17074228506.041449
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-11",
+        "price_usd": 43757.959937619176,
+        "market_cap": 856192504674.1926,
+        "volume_24h": 11865167562.179707
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-12",
+        "price_usd": 41200.96272610168,
+        "market_cap": 806178244439.1412,
+        "volume_24h": 39734542163.66172
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-13",
+        "price_usd": 41450.819387377436,
+        "market_cap": 812055172695.532,
+        "volume_24h": 24919333990.627098
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-14",
+        "price_usd": 42931.76182603245,
+        "market_cap": 840112594142.6609,
+        "volume_24h": 26301358636.124893
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-15",
+        "price_usd": 43009.5954563739,
+        "market_cap": 841400560142.884,
+        "volume_24h": 22978695605.48269
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-16",
+        "price_usd": 41992.01418722399,
+        "market_cap": 821883086852.3783,
+        "volume_24h": 17134765249.072596
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-17",
+        "price_usd": 42247.06788172229,
+        "market_cap": 825747211475.3832,
+        "volume_24h": 13524832238.374014
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-18",
+        "price_usd": 41410.819634575855,
+        "market_cap": 810534011290.7083,
+        "volume_24h": 16536428696.461372
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-19",
+        "price_usd": 42684.182554683386,
+        "market_cap": 834757901244.3383,
+        "volume_24h": 26473040426.60815
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-20",
+        "price_usd": 42250.206182797505,
+        "market_cap": 827483345952.5029,
+        "volume_24h": 23402523667.558952
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-21",
+        "price_usd": 43634.1241684964,
+        "market_cap": 854173854159.8182,
+        "volume_24h": 28334648885.87903
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-22",
+        "price_usd": 43849.69959939619,
+        "market_cap": 858312140014.9476,
+        "volume_24h": 21948638202.58336
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-23",
+        "price_usd": 44003.6960216438,
+        "market_cap": 861822676200.4246,
+        "volume_24h": 20833936534.62855
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-24",
+        "price_usd": 43752.03088478376,
+        "market_cap": 856850313226.057,
+        "volume_24h": 9872050975.657969
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-25",
+        "price_usd": 43034.971063091514,
+        "market_cap": 845029028630.4425,
+        "volume_24h": 18313974069.822754
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-26",
+        "price_usd": 43638.236302200916,
+        "market_cap": 854524607072.9797,
+        "volume_24h": 18744716867.39297
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-27",
+        "price_usd": 42516.426940282516,
+        "market_cap": 832471600531.6842,
+        "volume_24h": 20477744539.87234
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-28",
+        "price_usd": 43418.46777504291,
+        "market_cap": 849194163327.4839,
+        "volume_24h": 23244754807.443966
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-29",
+        "price_usd": 42600.65063315619,
+        "market_cap": 836073458797.803,
+        "volume_24h": 20336573643.81929
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-30",
+        "price_usd": 42074.70715618848,
+        "market_cap": 822933961870.5416,
+        "volume_24h": 24832397519.050613
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2023-12-31",
+        "price_usd": 42220.61140121376,
+        "market_cap": 826609156660.5117,
+        "volume_24h": 14727224645.41767
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-01",
+        "price_usd": 42208.202176186474,
+        "market_cap": 827596236151.1959,
+        "volume_24h": 14183728910.169804
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-02",
+        "price_usd": 44168.68118687473,
+        "market_cap": 863804922701.8125,
+        "volume_24h": 16958999497.58364
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-03",
+        "price_usd": 44994.67388689237,
+        "market_cap": 878395004792.8407,
+        "volume_24h": 39089952715.542786
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-04",
+        "price_usd": 42821.558989157995,
+        "market_cap": 838208392904.1771,
+        "volume_24h": 43146162597.56747
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-05",
+        "price_usd": 44195.57856209971,
+        "market_cap": 866352960236.8643,
+        "volume_24h": 26123887042.79777
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-06",
+        "price_usd": 44113.69973389081,
+        "market_cap": 863690851062.0247,
+        "volume_24h": 29364675804.010384
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-07",
+        "price_usd": 43956.12071720152,
+        "market_cap": 861211168830.4689,
+        "volume_24h": 11841102132.239353
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-08",
+        "price_usd": 43883.74387905174,
+        "market_cap": 856926317087.4954,
+        "volume_24h": 15144653805.362787
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-09",
+        "price_usd": 46936.185561217506,
+        "market_cap": 919666641903.4098,
+        "volume_24h": 40821502383.50064
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-10",
+        "price_usd": 46105.94607828697,
+        "market_cap": 902166917320.3264,
+        "volume_24h": 39887918405.77868
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-11",
+        "price_usd": 46632.31314804979,
+        "market_cap": 915259343942.0361,
+        "volume_24h": 52030057180.57072
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-12",
+        "price_usd": 46314.355541602694,
+        "market_cap": 909846384596.2129,
+        "volume_24h": 49198128806.306175
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-13",
+        "price_usd": 42893.92960550481,
+        "market_cap": 838383512176.7352,
+        "volume_24h": 45913301456.05085
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-14",
+        "price_usd": 42848.47451640749,
+        "market_cap": 839198740717.084,
+        "volume_24h": 19424747840.478386
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-15",
+        "price_usd": 41800.93282193406,
+        "market_cap": 822907066751.3778,
+        "volume_24h": 16968959097.076523
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-16",
+        "price_usd": 42587.336038354406,
+        "market_cap": 835225973285.8562,
+        "volume_24h": 22634527323.56315
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-17",
+        "price_usd": 43148.00164342693,
+        "market_cap": 845770850849.578,
+        "volume_24h": 22023116042.275295
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-18",
+        "price_usd": 42713.859186938986,
+        "market_cap": 836987995502.6503,
+        "volume_24h": 21299064875.187115
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-19",
+        "price_usd": 41261.39479801012,
+        "market_cap": 808845819110.2808,
+        "volume_24h": 25160430945.289833
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-20",
+        "price_usd": 41600.94093254464,
+        "market_cap": 815241536115.3193,
+        "volume_24h": 24407872954.726807
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-21",
+        "price_usd": 41626.10711003664,
+        "market_cap": 817217622403.9753,
+        "volume_24h": 9533488489.00503
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-22",
+        "price_usd": 41541.89945706261,
+        "market_cap": 814709364023.4832,
+        "volume_24h": 8032696833.695371
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-23",
+        "price_usd": 39504.73005758438,
+        "market_cap": 775020895102.2928,
+        "volume_24h": 31202848830.101707
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-24",
+        "price_usd": 39833.45410501688,
+        "market_cap": 779133357029.7626,
+        "volume_24h": 29683327703.0343
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-25",
+        "price_usd": 40123.67105847147,
+        "market_cap": 786928905377.1826,
+        "volume_24h": 22217129215.385582
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-26",
+        "price_usd": 39938.28644155878,
+        "market_cap": 783180536824.566,
+        "volume_24h": 13376924612.77818
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-27",
+        "price_usd": 41862.9356109399,
+        "market_cap": 820989861818.084,
+        "volume_24h": 22681602408.52447
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-28",
+        "price_usd": 42119.61049464309,
+        "market_cap": 826254540126.2368,
+        "volume_24h": 10694258830.371908
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-29",
+        "price_usd": 42026.57856232145,
+        "market_cap": 824240091063.3245,
+        "volume_24h": 13669905344.783924
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-30",
+        "price_usd": 43267.60927638767,
+        "market_cap": 849198976216.4734,
+        "volume_24h": 20680322267.003654
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-01-31",
+        "price_usd": 42892.03453014447,
+        "market_cap": 839294111912.5715,
+        "volume_24h": 24526664209.358597
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-01",
+        "price_usd": 42583.26354663417,
+        "market_cap": 835421372330.6442,
+        "volume_24h": 22197944957.07849
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-02",
+        "price_usd": 43069.043420936796,
+        "market_cap": 844585195327.6586,
+        "volume_24h": 22443682768.722225
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-03",
+        "price_usd": 43170.65856159975,
+        "market_cap": 846561992602.431,
+        "volume_24h": 18624791426.130833
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-04",
+        "price_usd": 42976.84829990829,
+        "market_cap": 842668526994.8004,
+        "volume_24h": 7779819312.310763
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-05",
+        "price_usd": 42599.35997055978,
+        "market_cap": 835416357159.2295,
+        "volume_24h": 11250814654.362
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-06",
+        "price_usd": 42648.45692113544,
+        "market_cap": 836630860392.2917,
+        "volume_24h": 18682275991.626797
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-07",
+        "price_usd": 43087.78740814285,
+        "market_cap": 845393687725.6221,
+        "volume_24h": 17131113853.23615
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-08",
+        "price_usd": 44247.415415479314,
+        "market_cap": 868672050077.7697,
+        "volume_24h": 21200879624.73537
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-09",
+        "price_usd": 45338.271189789484,
+        "market_cap": 890468166608.419,
+        "volume_24h": 27709605138.49859
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-10",
+        "price_usd": 47143.24299107112,
+        "market_cap": 925541926938.6151,
+        "volume_24h": 41993952311.122856
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-11",
+        "price_usd": 47768.995251247936,
+        "market_cap": 938210772985.4427,
+        "volume_24h": 16461159742.317774
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-12",
+        "price_usd": 48189.88179303987,
+        "market_cap": 945579645769.01,
+        "volume_24h": 13196875460.84672
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-13",
+        "price_usd": 50050.13609456397,
+        "market_cap": 981463410832.9637,
+        "volume_24h": 37684440686.70893
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-14",
+        "price_usd": 49732.14536955351,
+        "market_cap": 974585308372.1277,
+        "volume_24h": 37331081151.024765
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-15",
+        "price_usd": 51790.16929752642,
+        "market_cap": 1017596576729.7906,
+        "volume_24h": 41805076939.80903
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-16",
+        "price_usd": 51958.23029105492,
+        "market_cap": 1020725811639.5323,
+        "volume_24h": 31991869491.056656
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-17",
+        "price_usd": 52166.43430976192,
+        "market_cap": 1024019280535.48,
+        "volume_24h": 24850432117.896576
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-18",
+        "price_usd": 51684.51749264525,
+        "market_cap": 1015778284418.9253,
+        "volume_24h": 19851884283.15723
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-19",
+        "price_usd": 52138.48578873693,
+        "market_cap": 1023586119011.2284,
+        "volume_24h": 17025880430.565874
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-20",
+        "price_usd": 51764.313185487765,
+        "market_cap": 1016146442771.5667,
+        "volume_24h": 22555121071.55909
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-21",
+        "price_usd": 52286.79372554667,
+        "market_cap": 1026424315285.75,
+        "volume_24h": 34499627551.319275
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-22",
+        "price_usd": 51842.75676625642,
+        "market_cap": 1018869881156.3213,
+        "volume_24h": 30624246621.0974
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-23",
+        "price_usd": 51319.500125702674,
+        "market_cap": 1007314397269.4122,
+        "volume_24h": 23733644208.80861
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-24",
+        "price_usd": 50841.081094770896,
+        "market_cap": 999139504635.63,
+        "volume_24h": 22637679779.740997
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-25",
+        "price_usd": 51553.096712831146,
+        "market_cap": 1012485917140.1924,
+        "volume_24h": 15528276123.53668
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-26",
+        "price_usd": 51751.884054934555,
+        "market_cap": 1016549456019.3263,
+        "volume_24h": 15455098216.48263
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-27",
+        "price_usd": 54478.191083122954,
+        "market_cap": 1071049856128.8474,
+        "volume_24h": 35407941475.56789
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-28",
+        "price_usd": 57003.52673730811,
+        "market_cap": 1118963733317.3013,
+        "volume_24h": 51983799587.1939
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-02-29",
+        "price_usd": 62558.58202419311,
+        "market_cap": 1225273849241.6978,
+        "volume_24h": 87218855804.01622
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-01",
+        "price_usd": 61298.216861101624,
+        "market_cap": 1206725326872.1362,
+        "volume_24h": 67692687247.36391
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-02",
+        "price_usd": 62426.64052919186,
+        "market_cap": 1227712629022.1812,
+        "volume_24h": 36699193361.155365
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-03",
+        "price_usd": 62067.86680212177,
+        "market_cap": 1219383305483.4985,
+        "volume_24h": 25198213831.25236
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-04",
+        "price_usd": 63053.10543906421,
+        "market_cap": 1236312176673.4497,
+        "volume_24h": 27108369390.44353
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-05",
+        "price_usd": 68186.64593432152,
+        "market_cap": 1333913436699.1726,
+        "volume_24h": 74551714626.1156
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-06",
+        "price_usd": 64291.536557569496,
+        "market_cap": 1264870242318.5977,
+        "volume_24h": 96403762012.66058
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-07",
+        "price_usd": 66145.91927850846,
+        "market_cap": 1297845751759.601,
+        "volume_24h": 73151905042.04068
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-08",
+        "price_usd": 66944.87639053575,
+        "market_cap": 1317508010581.0813,
+        "volume_24h": 48853892626.0196
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-09",
+        "price_usd": 68315.25192078314,
+        "market_cap": 1340971395884.519,
+        "volume_24h": 63346588227.32869
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-10",
+        "price_usd": 68508.0039626159,
+        "market_cap": 1346027264110.4956,
+        "volume_24h": 21359706190.81524
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-11",
+        "price_usd": 69075.66688195744,
+        "market_cap": 1357390358031.5388,
+        "volume_24h": 36660543917.16198
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-12",
+        "price_usd": 72130.55300765681,
+        "market_cap": 1417772589113.9521,
+        "volume_24h": 66653067165.93465
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-13",
+        "price_usd": 71467.17350326062,
+        "market_cap": 1403692914139.1924,
+        "volume_24h": 64599341551.27301
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-14",
+        "price_usd": 73097.76702694128,
+        "market_cap": 1436631290571.5388,
+        "volume_24h": 51906601043.53671
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-15",
+        "price_usd": 71420.03180142345,
+        "market_cap": 1403843488135.24,
+        "volume_24h": 63073551321.74747
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-16",
+        "price_usd": 69497.7631929463,
+        "market_cap": 1367669237527.8738,
+        "volume_24h": 81204427005.22603
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-17",
+        "price_usd": 65292.31329331289,
+        "market_cap": 1282404282863.459,
+        "volume_24h": 49265436012.59228
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-18",
+        "price_usd": 68425.41565643054,
+        "market_cap": 1344508983079.8567,
+        "volume_24h": 47190980586.56393
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-19",
+        "price_usd": 67708.94360930806,
+        "market_cap": 1331771923948.0378,
+        "volume_24h": 51101822566.75771
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-20",
+        "price_usd": 62132.51737873437,
+        "market_cap": 1223867418062.399,
+        "volume_24h": 80179417876.47993
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-21",
+        "price_usd": 67819.05570684028,
+        "market_cap": 1332594162507.5205,
+        "volume_24h": 70836803714.91411
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-22",
+        "price_usd": 65535.97844847657,
+        "market_cap": 1287348061971.4202,
+        "volume_24h": 48393664548.05336
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-23",
+        "price_usd": 63509.04496523133,
+        "market_cap": 1247366367469.2778,
+        "volume_24h": 42436600223.53738
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-24",
+        "price_usd": 64285.80279102199,
+        "market_cap": 1264722355270.5166,
+        "volume_24h": 25489933245.687557
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-25",
+        "price_usd": 67310.98326810106,
+        "market_cap": 1323456466317.511,
+        "volume_24h": 28098318940.431744
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-26",
+        "price_usd": 69938.94530200244,
+        "market_cap": 1371797489739.3416,
+        "volume_24h": 44820310272.647514
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-27",
+        "price_usd": 70082.05122475982,
+        "market_cap": 1375728580463.2524,
+        "volume_24h": 36257324508.56845
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-28",
+        "price_usd": 69435.75040305211,
+        "market_cap": 1360261687784.1018,
+        "volume_24h": 41441040887.822266
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-29",
+        "price_usd": 70710.19534863312,
+        "market_cap": 1390869723348.0437,
+        "volume_24h": 30455289338.47621
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-30",
+        "price_usd": 69919.05546148612,
+        "market_cap": 1374646886107.8396,
+        "volume_24h": 25785951735.485695
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-03-31",
+        "price_usd": 69702.3087473573,
+        "market_cap": 1370247487960.0945,
+        "volume_24h": 16408802301.837431
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-01",
+        "price_usd": 71246.95144060145,
+        "market_cap": 1401370211582.3662,
+        "volume_24h": 19723005998.21497
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-02",
+        "price_usd": 69785.92503802372,
+        "market_cap": 1373784286061.3486,
+        "volume_24h": 36040088988.53872
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-03",
+        "price_usd": 65440.41922587159,
+        "market_cap": 1288360536576.547,
+        "volume_24h": 45161133992.09071
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-04",
+        "price_usd": 66123.938539074,
+        "market_cap": 1301670235623.7266,
+        "volume_24h": 35559952961.797325
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-05",
+        "price_usd": 68542.17715279506,
+        "market_cap": 1348455954443.3696,
+        "volume_24h": 37516850709.63811
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-06",
+        "price_usd": 67978.61023408506,
+        "market_cap": 1337452583876.3916,
+        "volume_24h": 35132808695.80448
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-07",
+        "price_usd": 69000.6499164776,
+        "market_cap": 1358548956714.7139,
+        "volume_24h": 19119438138.850826
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-08",
+        "price_usd": 69401.97360911008,
+        "market_cap": 1367272232852.0764,
+        "volume_24h": 17935478429.01022
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-09",
+        "price_usd": 71624.18486236996,
+        "market_cap": 1410324678268.6392,
+        "volume_24h": 33111949671.02105
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-10",
+        "price_usd": 69158.64381207665,
+        "market_cap": 1361830648708.6648,
+        "volume_24h": 36488482038.859055
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-11",
+        "price_usd": 70527.88997578963,
+        "market_cap": 1387722485989.3584,
+        "volume_24h": 38378062633.13138
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-12",
+        "price_usd": 70106.66413070948,
+        "market_cap": 1379324055321.196,
+        "volume_24h": 30118549149.510498
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-13",
+        "price_usd": 67252.10504226631,
+        "market_cap": 1321648247460.1611,
+        "volume_24h": 43471949726.09197
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-14",
+        "price_usd": 64404.82548907413,
+        "market_cap": 1270009515097.3306,
+        "volume_24h": 49214481480.20075
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-15",
+        "price_usd": 65752.66004728881,
+        "market_cap": 1293286386553.3967,
+        "volume_24h": 40292911692.95434
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-16",
+        "price_usd": 63430.5714573684,
+        "market_cap": 1247928896840.997,
+        "volume_24h": 42796604938.03423
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-17",
+        "price_usd": 63720.501587480736,
+        "market_cap": 1253670904297.4917,
+        "volume_24h": 42157169474.39519
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-18",
+        "price_usd": 61328.89798860725,
+        "market_cap": 1207185042484.4346,
+        "volume_24h": 41123362075.93534
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-19",
+        "price_usd": 63461.592695107174,
+        "market_cap": 1249565911947.3347,
+        "volume_24h": 35901618166.42319
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-20",
+        "price_usd": 63988.818471785664,
+        "market_cap": 1263308149913.607,
+        "volume_24h": 52227787323.81757
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-21",
+        "price_usd": 64894.41869109179,
+        "market_cap": 1277940837359.7852,
+        "volume_24h": 16601830590.687477
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-22",
+        "price_usd": 64936.4207567739,
+        "market_cap": 1279763566407.3762,
+        "volume_24h": 19592118541.18973
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-23",
+        "price_usd": 66841.66685207361,
+        "market_cap": 1317058642854.2856,
+        "volume_24h": 27748586313.20611
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-24",
+        "price_usd": 66406.95244392671,
+        "market_cap": 1306843409278.049,
+        "volume_24h": 23232230785.201836
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-25",
+        "price_usd": 64279.51812857524,
+        "market_cap": 1265541377860.928,
+        "volume_24h": 30939903322.025898
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-26",
+        "price_usd": 64486.183359158975,
+        "market_cap": 1269387456067.624,
+        "volume_24h": 24705345525.57077
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-27",
+        "price_usd": 63802.330049258766,
+        "market_cap": 1255539337969.4697,
+        "volume_24h": 23302057197.884678
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-28",
+        "price_usd": 63517.248743409626,
+        "market_cap": 1249495302303.4912,
+        "volume_24h": 19190483386.063873
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-29",
+        "price_usd": 63030.433616681854,
+        "market_cap": 1240724751365.882,
+        "volume_24h": 16180294651.046635
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-04-30",
+        "price_usd": 63797.67963589958,
+        "market_cap": 1257159131219.0603,
+        "volume_24h": 27242983698.21234
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-01",
+        "price_usd": 60749.47209216387,
+        "market_cap": 1197773959985.8767,
+        "volume_24h": 39533113322.04938
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-02",
+        "price_usd": 58297.574075325494,
+        "market_cap": 1151677489315.1536,
+        "volume_24h": 51109380171.692604
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-03",
+        "price_usd": 59135.1733607733,
+        "market_cap": 1164721402399.166,
+        "volume_24h": 28255509745.49032
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-04",
+        "price_usd": 62839.34073569376,
+        "market_cap": 1239817041554.716,
+        "volume_24h": 33591665812.212433
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-05",
+        "price_usd": 63820.451902924986,
+        "market_cap": 1257549583083.3145,
+        "volume_24h": 20510614461.479218
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-06",
+        "price_usd": 64010.00865210892,
+        "market_cap": 1259667234461.2874,
+        "volume_24h": 18115695040.201984
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-07",
+        "price_usd": 63172.48129551341,
+        "market_cap": 1244417948315.7583,
+        "volume_24h": 17917770174.27797
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-08",
+        "price_usd": 62363.057191718624,
+        "market_cap": 1229336706399.346,
+        "volume_24h": 19925137720.849453
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-09",
+        "price_usd": 61215.50400879193,
+        "market_cap": 1203918522476.5405,
+        "volume_24h": 20303831135.373127
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-10",
+        "price_usd": 63148.599943097026,
+        "market_cap": 1240910691253.6274,
+        "volume_24h": 25837724247.550426
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-11",
+        "price_usd": 60888.21674957157,
+        "market_cap": 1199393711200.297,
+        "volume_24h": 23987518755.480534
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-12",
+        "price_usd": 60776.972079172134,
+        "market_cap": 1197102943502.2341,
+        "volume_24h": 12120618802.065384
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-13",
+        "price_usd": 61507.054004121346,
+        "market_cap": 1211277523448.5786,
+        "volume_24h": 13045696108.912676
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-14",
+        "price_usd": 62878.783300729294,
+        "market_cap": 1238994152713.125,
+        "volume_24h": 27740460083.601814
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-15",
+        "price_usd": 61569.1130057734,
+        "market_cap": 1212998352772.157,
+        "volume_24h": 21581895152.31416
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-16",
+        "price_usd": 66220.51831432826,
+        "market_cap": 1307048849176.4167,
+        "volume_24h": 38101793065.15294
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-17",
+        "price_usd": 65260.879803346186,
+        "market_cap": 1286278919684.0837,
+        "volume_24h": 29114585833.349678
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-18",
+        "price_usd": 67053.12326509564,
+        "market_cap": 1319238394090.13,
+        "volume_24h": 25397793918.993534
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-19",
+        "price_usd": 66912.61861403697,
+        "market_cap": 1319928522881.6436,
+        "volume_24h": 13025487675.845129
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-20",
+        "price_usd": 66252.71259591613,
+        "market_cap": 1304727108597.6987,
+        "volume_24h": 9072734600.009218
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-21",
+        "price_usd": 71430.29700215145,
+        "market_cap": 1406288649446.611,
+        "volume_24h": 35923476641.4359
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-22",
+        "price_usd": 70189.8358177002,
+        "market_cap": 1382275470797.567,
+        "volume_24h": 41105056578.01701
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-23",
+        "price_usd": 69181.20085677762,
+        "market_cap": 1362228629448.754,
+        "volume_24h": 31059440495.91766
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-24",
+        "price_usd": 67906.46534276106,
+        "market_cap": 1336347300306.381,
+        "volume_24h": 39235702119.25446
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-25",
+        "price_usd": 68539.91646552991,
+        "market_cap": 1350764328536.3708,
+        "volume_24h": 28127411967.182774
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-26",
+        "price_usd": 69268.44558973772,
+        "market_cap": 1363997851294.8164,
+        "volume_24h": 15929396750.116022
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-27",
+        "price_usd": 68508.83110875699,
+        "market_cap": 1349351520129.172,
+        "volume_24h": 11243743771.147913
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-28",
+        "price_usd": 69367.23871755725,
+        "market_cap": 1366931305389.0393,
+        "volume_24h": 18983806932.464344
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-29",
+        "price_usd": 68316.63588049631,
+        "market_cap": 1347542673428.3018,
+        "volume_24h": 31278122196.184998
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-30",
+        "price_usd": 67577.26558995963,
+        "market_cap": 1331734029835.3335,
+        "volume_24h": 24320692137.62038
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-05-31",
+        "price_usd": 68372.49288434093,
+        "market_cap": 1346147846430.124,
+        "volume_24h": 25344376897.716885
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-01",
+        "price_usd": 67474.95483698409,
+        "market_cap": 1331606411822.8157,
+        "volume_24h": 19685305476.459476
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-02",
+        "price_usd": 67704.32641811523,
+        "market_cap": 1333649555935.3525,
+        "volume_24h": 10724053324.55672
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-03",
+        "price_usd": 67740.01690222476,
+        "market_cap": 1335930570689.7126,
+        "volume_24h": 16137350587.750422
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-04",
+        "price_usd": 68808.29368590549,
+        "market_cap": 1355484820107.0864,
+        "volume_24h": 29862293749.910686
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-05",
+        "price_usd": 70600.01116676089,
+        "market_cap": 1390853496950.4385,
+        "volume_24h": 31561053725.144592
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-06",
+        "price_usd": 71184.59943059199,
+        "market_cap": 1400297735227.1965,
+        "volume_24h": 32560403314.989147
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-07",
+        "price_usd": 70759.58819301432,
+        "market_cap": 1394881646977.521,
+        "volume_24h": 23612879689.560955
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-08",
+        "price_usd": 69325.36238847222,
+        "market_cap": 1366366925856.506,
+        "volume_24h": 18597495569.911568
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-09",
+        "price_usd": 69315.1041233966,
+        "market_cap": 1366065699664.3162,
+        "volume_24h": 10688301508.476225
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-10",
+        "price_usd": 69654.16073760358,
+        "market_cap": 1372556186704.501,
+        "volume_24h": 10461044041.080194
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-11",
+        "price_usd": 69493.17760915738,
+        "market_cap": 1369378888543.5317,
+        "volume_24h": 19335866773.67523
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-12",
+        "price_usd": 67329.15232724321,
+        "market_cap": 1327665028180.2761,
+        "volume_24h": 38513044382.60802
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-13",
+        "price_usd": 68224.51967501991,
+        "market_cap": 1345244310606.6865,
+        "volume_24h": 36027809551.45211
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-14",
+        "price_usd": 66700.31696564378,
+        "market_cap": 1317161415434.6978,
+        "volume_24h": 29654777884.381138
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-15",
+        "price_usd": 66011.07873713733,
+        "market_cap": 1301949410096.3496,
+        "volume_24h": 27966992832.749634
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-16",
+        "price_usd": 66190.4874891135,
+        "market_cap": 1304370314917.9756,
+        "volume_24h": 13472726244.723091
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-17",
+        "price_usd": 66615.53782131766,
+        "market_cap": 1313849391756.9756,
+        "volume_24h": 12650130203.722813
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-18",
+        "price_usd": 66460.38897909952,
+        "market_cap": 1309329377372.7744,
+        "volume_24h": 29409728999.276093
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-19",
+        "price_usd": 65109.314812190474,
+        "market_cap": 1282295865979.065,
+        "volume_24h": 41386972050.31837
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-20",
+        "price_usd": 64907.07460760319,
+        "market_cap": 1278699763341.0723,
+        "volume_24h": 21680698980.889107
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-21",
+        "price_usd": 64844.67441797763,
+        "market_cap": 1279317116821.3782,
+        "volume_24h": 26001551474.84426
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-22",
+        "price_usd": 64071.624284709695,
+        "market_cap": 1263258746635.2896,
+        "volume_24h": 24694310198.90943
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-23",
+        "price_usd": 64239.90348813148,
+        "market_cap": 1266336092890.8738,
+        "volume_24h": 6340606686.24879
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-24",
+        "price_usd": 63221.35738437477,
+        "market_cap": 1248188877658.2324,
+        "volume_24h": 10748270931.518738
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-25",
+        "price_usd": 60363.23497529626,
+        "market_cap": 1188964670369.4045,
+        "volume_24h": 42036553106.89028
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-26",
+        "price_usd": 61770.413870095355,
+        "market_cap": 1217935012739.8113,
+        "volume_24h": 21105562261.648533
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-27",
+        "price_usd": 60749.89619402014,
+        "market_cap": 1198205485427.564,
+        "volume_24h": 22908540918.971207
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-28",
+        "price_usd": 61562.64532550036,
+        "market_cap": 1213931985719.8025,
+        "volume_24h": 18855138893.067604
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-29",
+        "price_usd": 60317.09697945116,
+        "market_cap": 1189569860170.9426,
+        "volume_24h": 24399416695.150173
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-06-30",
+        "price_usd": 60864.44316193428,
+        "market_cap": 1199792912680.844,
+        "volume_24h": 11435110883.886795
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-01",
+        "price_usd": 62734.39383945474,
+        "market_cap": 1236676710888.4822,
+        "volume_24h": 17373592048.120487
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-02",
+        "price_usd": 62819.82226921849,
+        "market_cap": 1238799172479.871,
+        "volume_24h": 25573074910.689686
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-03",
+        "price_usd": 62042.5650371006,
+        "market_cap": 1222901857941.0586,
+        "volume_24h": 18100530101.689426
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-04",
+        "price_usd": 60244.68076433092,
+        "market_cap": 1186937170314.9272,
+        "volume_24h": 30348692427.02443
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-05",
+        "price_usd": 57189.17412408636,
+        "market_cap": 1130121668991.0515,
+        "volume_24h": 43112005394.93119
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-06",
+        "price_usd": 56739.86285107204,
+        "market_cap": 1118490666778.4585,
+        "volume_24h": 60081357583.2773
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-07",
+        "price_usd": 58230.4841542266,
+        "market_cap": 1147176330416.144,
+        "volume_24h": 21293913670.919975
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-08",
+        "price_usd": 55880.3753776708,
+        "market_cap": 1100452083927.7026,
+        "volume_24h": 20211914621.326435
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-09",
+        "price_usd": 56665.140733520275,
+        "market_cap": 1117615464651.686,
+        "volume_24h": 41614266908.30467
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-10",
+        "price_usd": 57988.30351208401,
+        "market_cap": 1144794688186.9604,
+        "volume_24h": 28413854577.262756
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-11",
+        "price_usd": 57704.202284462874,
+        "market_cap": 1139350681822.5857,
+        "volume_24h": 25987656347.278587
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-12",
+        "price_usd": 57388.192479166675,
+        "market_cap": 1130276546536.143,
+        "volume_24h": 29196653598.752666
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-13",
+        "price_usd": 57899.28895749592,
+        "market_cap": 1141567375406.1943,
+        "volume_24h": 25504482306.198975
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-14",
+        "price_usd": 59152.71913887286,
+        "market_cap": 1168371787725.7102,
+        "volume_24h": 16765547593.243273
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-15",
+        "price_usd": 60942.32773996293,
+        "market_cap": 1204059167828.704,
+        "volume_24h": 21295520563.65442
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-16",
+        "price_usd": 64835.48973321571,
+        "market_cap": 1277806993830.5176,
+        "volume_24h": 37810068492.862465
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-17",
+        "price_usd": 65162.23625234354,
+        "market_cap": 1284899538175.1812,
+        "volume_24h": 40914441633.09575
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-18",
+        "price_usd": 64136.31384360687,
+        "market_cap": 1266016458007.3477,
+        "volume_24h": 33459451713.593426
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-19",
+        "price_usd": 63959.56900809379,
+        "market_cap": 1261456293182.2588,
+        "volume_24h": 25976148878.632153
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-20",
+        "price_usd": 66689.54880734957,
+        "market_cap": 1316147398343.7175,
+        "volume_24h": 36994610752.230415
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-21",
+        "price_usd": 67206.06470614894,
+        "market_cap": 1325658979467.9998,
+        "volume_24h": 17353396168.041622
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-22",
+        "price_usd": 68088.13996324532,
+        "market_cap": 1343346742483.077,
+        "volume_24h": 27078771827.95196
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-23",
+        "price_usd": 67607.71339918874,
+        "market_cap": 1333201881091.7786,
+        "volume_24h": 43157593651.80313
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "date": "2024-07-24",
+        "price_usd": 65829.05554998077,
+        "market_cap": 1298045800967.5593,
+        "volume_24h": 24463772177.295467
     }
 ]
