@@ -62,7 +62,19 @@ def variance(x: List[float]) -> float:
 def standard_deviation(xs: List[float]) -> float:
     """square root of the variance"""
     return math.sqrt(variance(xs))
-    
+
 def interquartile_range(x):
     """half of the difference between third and first quartile"""
     return quantile(x, 0.75) - quantile(x, 0.25)
+
+def covariance(x, y):
+    n = len(x)
+    return dot(de_mean(x), de_mean(y)) / (n-1)
+
+def correlation(x, y):
+    stdev_x = standard_deviation(x)
+    stdev_y = standard_deviation(y)
+    if stdev_x > 0 and stdev_y > 0:
+        return covariance(x, y) / stdev_x / stdev_y
+    else:
+        return 0

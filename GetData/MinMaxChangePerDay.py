@@ -55,3 +55,27 @@ for symbol, change in max_change_by_symbol.items():
 for symbol, change in min_change_by_symbol.items():
     print(f"{symbol} : {change}")
 
+
+# Calculate consecutive days with less than 2% change
+consecutive_days = {}
+for symbol, changes in changes_by_symbol.items():
+    max_consecutive_days = 0
+    current_consecutive_days = 0
+    
+    for change in changes:
+        if abs(change["change"]) > 0.05:
+            current_consecutive_days += 1
+        else:
+            if current_consecutive_days > max_consecutive_days:
+                max_consecutive_days = current_consecutive_days
+            current_consecutive_days = 0
+
+    # Final check in case the longest streak ends on the last day
+    if current_consecutive_days > max_consecutive_days:
+        max_consecutive_days = current_consecutive_days
+    
+    consecutive_days[symbol] = max_consecutive_days
+
+# Output the result
+for symbol, days in consecutive_days.items():
+    print(f"{symbol}: {days} consecutive days with less than 2% change")
