@@ -50,10 +50,10 @@ for symbol, changes in changes_by_symbol.items():
     min_change_by_symbol[symbol] = min_change
 
 for symbol, change in max_change_by_symbol.items():
-    print(f"{symbol} : {change}")
+    print(f"Max change for {symbol} : {change}")
 
 for symbol, change in min_change_by_symbol.items():
-    print(f"{symbol} : {change}")
+    print(f"Min change for {symbol} : {change}")
 
 
 # Calculate consecutive days with less than 2% change
